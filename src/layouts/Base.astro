@@ -80,6 +80,9 @@ const isLoggedIn = !!Astro.locals.user;
 		<Font cssVariable="--font-mono" />
 		<title>{fullTitle}</title>
 		{siteFavicon && <link rel="icon" href={siteFavicon} />}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
 		<EmDashHead page={pageCtx} />
 		<script is:inline>
 			// Apply theme immediately to prevent flash
@@ -380,6 +383,12 @@ const isLoggedIn = !!Astro.locals.user;
 				}
 
 				:root {
+/* Thêm dòng này để đổi font chính */
+    --font-sans: 'Montserrat', ui-sans-serif, system-ui, sans-serif;
+    
+    /* Nếu muốn đổi font cho phần code/mono */
+    --font-mono: 'Courier New', monospace;
+
 					/* Colors - Light mode (default) */
 					--color-bg: #ffffff;
 					--color-bg-subtle: #fafafa;
