@@ -175,19 +175,39 @@ const marqueeText = "toàn tin nhảm nhí · chuyện sức khoẻ · grooming 
 		</main>
 
 		<footer class="site-footer">
-			<div class="wrap site-footer__inner">
-				<a href="/" class="wordmark">
-					<img src="/logo-96.webp" alt="" width="96" height="96" class="wordmark__mark" loading="lazy" decoding="async" />
-					<span class="serif wordmark__name">{site.title}</span>
-				</a>
-				<nav class="site-footer__links" aria-label="Liên kết chân trang">
-					{categories.map((c) => <a href={`/category/${c.slug}`} class="chip">{c.label}</a>)}
-					<a href="/pages/gioi-thieu" class="chip">Giới thiệu</a>
-					<a href="/pages/lien-he" class="chip">Liên hệ</a>
-					<a href="/pages/chinh-sach-bao-mat" class="chip">Bảo mật</a>
-					<a href="/rss.xml" class="chip">RSS</a>
+			<div class="wrap site-footer__grid">
+				<div class="site-footer__brand">
+					<a href="/" class="wordmark">
+						<img src="/logo-96.webp" alt="" width="96" height="96" class="wordmark__mark" loading="lazy" decoding="async" />
+						<span class="serif wordmark__name">{site.title}</span>
+					</a>
+					<p class="site-footer__blurb">{site.description}</p>
+				</div>
+
+				<nav class="site-footer__col" aria-labelledby="ft-cat">
+					<p class="site-footer__heading" id="ft-cat">Chuyên mục</p>
+					<ul class="site-footer__list">
+						{categories.map((c) => (
+							<li><a href={`/category/${c.slug}`}>{c.label}</a></li>
+						))}
+					</ul>
 				</nav>
-				<p class="site-footer__copy">© {new Date().getFullYear()} {site.title}</p>
+
+				<nav class="site-footer__col" aria-labelledby="ft-page">
+					<p class="site-footer__heading" id="ft-page">Về trang</p>
+					<ul class="site-footer__list">
+						<li><a href="/pages/gioi-thieu">Giới thiệu</a></li>
+						<li><a href="/pages/lien-he">Liên hệ</a></li>
+						<li><a href="/pages/chinh-sach-bao-mat">Chính sách bảo mật</a></li>
+						<li><a href="/posts">Tất cả bài viết</a></li>
+						<li><a href="/rss.xml">RSS</a></li>
+					</ul>
+				</nav>
+			</div>
+
+			<div class="wrap site-footer__bottom">
+				<p>© {new Date().getFullYear()} {site.title}</p>
+				<p>Biên tập bởi <a href="/pages/gioi-thieu">Anh Nhảm</a></p>
 			</div>
 		</footer>
 
@@ -331,36 +351,86 @@ const marqueeText = "toàn tin nhảm nhí · chuyện sức khoẻ · grooming 
 
 	.site-footer {
 		margin-top: var(--space-8);
-		padding-block: var(--space-6) var(--space-7);
+		padding-block: var(--space-7) var(--space-5);
 		background: var(--bg-subtle);
 	}
 
-	.site-footer__inner {
+	.site-footer__grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: var(--space-6) var(--space-5);
+	}
+
+	.site-footer__brand {
+		grid-column: 1 / -1;
 		display: flex;
 		flex-direction: column;
-		gap: var(--space-4);
+		gap: var(--space-3);
+		max-width: 26rem;
 	}
 
-	.site-footer__links {
+	.site-footer__blurb {
+		font-size: var(--step--1);
+		line-height: 1.7;
+		color: var(--muted);
+	}
+
+	.site-footer__heading {
+		font-size: var(--step--1);
+		font-weight: 500;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		margin-bottom: var(--space-3);
+	}
+
+	.site-footer__list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-2);
+	}
+
+	.site-footer__list a {
+		font-size: var(--step--1);
+		color: var(--text-secondary);
+		transition: color 0.2s ease;
+	}
+
+	.site-footer__list a:hover {
+		color: var(--accent);
+	}
+
+	.site-footer__bottom {
 		display: flex;
 		flex-wrap: wrap;
-		gap: var(--space-1);
-	}
-
-	.site-footer__links .chip {
-		background: var(--bg);
-	}
-
-	.site-footer__copy {
-		color: var(--muted);
+		justify-content: space-between;
+		gap: var(--space-2) var(--space-4);
+		margin-top: var(--space-6);
+		padding-top: var(--space-4);
+		border-top: 1px solid var(--border);
 		font-size: var(--step--1);
+		color: var(--muted);
+	}
+
+	.site-footer__bottom a {
+		color: var(--text-secondary);
+	}
+
+	.site-footer__bottom a:hover {
+		color: var(--accent);
 	}
 
 	@media (min-width: 48rem) {
-		.site-footer__inner {
-			flex-direction: row;
-			align-items: center;
-			justify-content: space-between;
+		.site-footer__grid {
+			grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) minmax(0, 1fr);
+			gap: var(--space-7);
+		}
+
+		.site-footer__brand {
+			grid-column: auto;
 		}
 	}
+
 </style>
