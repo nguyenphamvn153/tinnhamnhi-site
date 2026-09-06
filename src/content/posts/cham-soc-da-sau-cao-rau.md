@@ -6,8 +6,8 @@ category: "grooming"
 tags:
   - "chăm sóc da"
   - "cạo râu"
-featuredImage: "/uploads/2020/05/featureimage2-cao-rau-elle-man-0120.webp"
-featuredImageAlt: "Người đàn ông thoa sản phẩm dưỡng lên má sau khi cạo râu"
+featuredImage: "/uploads/2026/09/cham-soc-da-sau-cao-rau-hero.webp"
+featuredImageAlt: "Người đàn ông thoa kem dưỡng lên má trước gương phòng tắm sau khi cạo râu"
 publishedAt: 2020-05-14T08:30:00.000Z
 updatedAt: 2026-09-06T06:00:00.000Z
 ---
@@ -42,8 +42,8 @@ Nếu bạn vẫn hình dung aftershave là những chai dung dịch sặc mùi 
 Chai aftershave đắt tiền tới đâu cũng vô nghĩa nếu bỏ qua ba điều này.
 
 <figure>
-  <img src="/uploads/2020/05/cham-soc-da-sau-cao-rau-elle-man-1-1.webp" alt="Người đàn ông đứng trước gương trong phòng tắm sau khi cạo râu" />
-  <figcaption>Dao sạch, tay nhẹ, và đừng bỏ bước cuối.</figcaption>
+  <img src="/uploads/2026/09/cham-soc-da-sau-cao-rau-soi-guong.webp" alt="Người đàn ông soi gương kiểm tra da mặt sau khi cạo râu" />
+  <figcaption>Vùng da vừa cạo rất dễ kích ứng — đáng để soi kỹ một chút.</figcaption>
 </figure>
 
 **Giữ dao cạo sạch.** Rửa sạch sau mỗi lần dùng và thay lưỡi định kỳ. Một lưỡi dao cùn, rỉ sét vừa kéo rách da vừa là nơi vi khuẩn trú ngụ.

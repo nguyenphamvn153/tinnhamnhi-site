@@ -6,9 +6,8 @@ category: "grooming"
 tags:
   - "nước hoa"
   - "nam giới"
-featuredImage: "/uploads/2019/06/xit-nuoc-hoa-elle-man-01.webp"
-featuredImageAlt: "Người đàn ông xịt nước hoa lên cổ"
-featuredImageCredit: "Ảnh: Fashionbeans"
+featuredImage: "/uploads/2026/09/xit-nuoc-hoa-hero.webp"
+featuredImageAlt: "Người đàn ông mặc vest xịt nước hoa vào vùng cổ"
 publishedAt: 2019-06-25T08:00:45.000Z
 updatedAt: 2026-09-06T07:00:00.000Z
 ---

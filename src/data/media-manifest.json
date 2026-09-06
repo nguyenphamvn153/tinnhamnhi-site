@@ -163,24 +163,6 @@
 			}
 		]
 	},
-	"/uploads/2019/06/xit-nuoc-hoa-elle-man-01.webp": {
-		"width": 1000,
-		"height": 450,
-		"variants": [
-			{
-				"w": 400,
-				"src": "/uploads/2019/06/xit-nuoc-hoa-elle-man-01-400w.webp"
-			},
-			{
-				"w": 800,
-				"src": "/uploads/2019/06/xit-nuoc-hoa-elle-man-01-800w.webp"
-			},
-			{
-				"w": 1000,
-				"src": "/uploads/2019/06/xit-nuoc-hoa-elle-man-01.webp"
-			}
-		]
-	},
 	"/uploads/2019/06/xit-nuoc-hoa-elle-men-05.webp": {
 		"width": 480,
 		"height": 240,
@@ -520,46 +502,6 @@
 			{
 				"w": 2048,
 				"src": "/uploads/2020/05/5027109_tinhte_chuyen_nham_tien_9.webp"
-			}
-		]
-	},
-	"/uploads/2020/05/cham-soc-da-sau-cao-rau-elle-man-1-1.webp": {
-		"width": 813,
-		"height": 463,
-		"variants": [
-			{
-				"w": 400,
-				"src": "/uploads/2020/05/cham-soc-da-sau-cao-rau-elle-man-1-1-400w.webp"
-			},
-			{
-				"w": 800,
-				"src": "/uploads/2020/05/cham-soc-da-sau-cao-rau-elle-man-1-1-800w.webp"
-			},
-			{
-				"w": 813,
-				"src": "/uploads/2020/05/cham-soc-da-sau-cao-rau-elle-man-1-1.webp"
-			}
-		]
-	},
-	"/uploads/2020/05/featureimage2-cao-rau-elle-man-0120.webp": {
-		"width": 1280,
-		"height": 720,
-		"variants": [
-			{
-				"w": 400,
-				"src": "/uploads/2020/05/featureimage2-cao-rau-elle-man-0120-400w.webp"
-			},
-			{
-				"w": 800,
-				"src": "/uploads/2020/05/featureimage2-cao-rau-elle-man-0120-800w.webp"
-			},
-			{
-				"w": 1200,
-				"src": "/uploads/2020/05/featureimage2-cao-rau-elle-man-0120-1200w.webp"
-			},
-			{
-				"w": 1280,
-				"src": "/uploads/2020/05/featureimage2-cao-rau-elle-man-0120.webp"
 			}
 		]
 	},
@@ -2221,6 +2163,50 @@
 			}
 		]
 	},
+	"/uploads/2026/09/cham-soc-da-sau-cao-rau-hero.webp": {
+		"width": 1400,
+		"height": 798,
+		"variants": [
+			{
+				"w": 400,
+				"src": "/uploads/2026/09/cham-soc-da-sau-cao-rau-hero-400w.webp"
+			},
+			{
+				"w": 800,
+				"src": "/uploads/2026/09/cham-soc-da-sau-cao-rau-hero-800w.webp"
+			},
+			{
+				"w": 1200,
+				"src": "/uploads/2026/09/cham-soc-da-sau-cao-rau-hero-1200w.webp"
+			},
+			{
+				"w": 1400,
+				"src": "/uploads/2026/09/cham-soc-da-sau-cao-rau-hero.webp"
+			}
+		]
+	},
+	"/uploads/2026/09/cham-soc-da-sau-cao-rau-soi-guong.webp": {
+		"width": 1400,
+		"height": 788,
+		"variants": [
+			{
+				"w": 400,
+				"src": "/uploads/2026/09/cham-soc-da-sau-cao-rau-soi-guong-400w.webp"
+			},
+			{
+				"w": 800,
+				"src": "/uploads/2026/09/cham-soc-da-sau-cao-rau-soi-guong-800w.webp"
+			},
+			{
+				"w": 1200,
+				"src": "/uploads/2026/09/cham-soc-da-sau-cao-rau-soi-guong-1200w.webp"
+			},
+			{
+				"w": 1400,
+				"src": "/uploads/2026/09/cham-soc-da-sau-cao-rau-soi-guong.webp"
+			}
+		]
+	},
 	"/uploads/2026/09/toc-bac-som-can-canh-soi-toc.webp": {
 		"width": 1376,
 		"height": 768,
@@ -2306,6 +2292,28 @@
 			{
 				"w": 1400,
 				"src": "/uploads/2026/09/toc-bac-som-stress-cong-viec.webp"
+			}
+		]
+	},
+	"/uploads/2026/09/xit-nuoc-hoa-hero.webp": {
+		"width": 1400,
+		"height": 630,
+		"variants": [
+			{
+				"w": 400,
+				"src": "/uploads/2026/09/xit-nuoc-hoa-hero-400w.webp"
+			},
+			{
+				"w": 800,
+				"src": "/uploads/2026/09/xit-nuoc-hoa-hero-800w.webp"
+			},
+			{
+				"w": 1200,
+				"src": "/uploads/2026/09/xit-nuoc-hoa-hero-1200w.webp"
+			},
+			{
+				"w": 1400,
+				"src": "/uploads/2026/09/xit-nuoc-hoa-hero.webp"
 			}
 		]
 	}
