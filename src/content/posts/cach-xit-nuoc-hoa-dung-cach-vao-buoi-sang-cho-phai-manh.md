@@ -6,6 +6,7 @@ tags:
   - "nước hoa"
   - "nam giới"
 featuredImage: "/uploads/2019/06/xit-nuoc-hoa-elle-man-01.webp"
+featuredImageCredit: "Ảnh: Fashionbeans"
 publishedAt: 2019-06-25T08:00:45.000Z
 updatedAt: 2026-04-16T10:57:14.788Z
 ---
@@ -14,10 +15,6 @@ Chúng ta hay có những quan niệm sai lầm hay không rõ cách thực hi�
 
 Khi được ai hỏi rằng cách xịt nước hoa của bạn vào buổi sáng là gì? Chắc chắn không ít người nhanh nhảu mà thuật lại câu nói “Hai trên cổ và một ở cổ tay” đúng không? Thật sự thì kĩ thuật này sai mất tiêu rồi. Chúng tôi xin được giới thiệu đến bí quyết xịt nước hoa cá nhân của Claire Slaney, quản lý cửa hàng nước hoa Creed tại London, để giúp mùi hương của bạn luôn bền lâu trong suốt một ngày dài.
 
-<figure>
-  <img src="/uploads/2019/06/xit-nuoc-hoa-elle-man-01.webp" alt="Ảnh: Fashionbeans" loading="lazy" decoding="async" />
-  <figcaption>Ảnh: Fashionbeans</figcaption>
-</figure>
 
 **Giữ khoảng cách**
 

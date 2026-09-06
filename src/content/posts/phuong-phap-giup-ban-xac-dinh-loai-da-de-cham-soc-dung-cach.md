@@ -20,8 +20,6 @@ Chăm sóc da hiệu quả đòi hỏi bạn phải biết loại da của mình
 
 ** **
 
-<img src="/uploads/2023/05/han-tools.com_shutterstock-1.webp" alt="" loading="lazy" decoding="async" />
-
 Một cách hữu ích giúp bạn xác định loại da là quan sát da sau khi rửa mặt bằng sản phẩm nhẹ nhàng, đặc biệt là khu vực ngoài khuôn mặt, nơi có ít tuyến bã nhờn.
 
 Nếu bạn có da thường, sau vài phút rửa mặt da sẽ khô, nhưng trong vòng 15-20 phút sẽ trở lại bình thường. Với da dầu, dù đã rửa sạch, bạn vẫn thấy bóng nhờn. Nếu bạn có da khô, sau khi rửa mặt, da vẫn cảm thấy khô trong thời gian dài.

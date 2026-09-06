@@ -14,7 +14,6 @@ updatedAt: 2026-04-16T10:57:17.280Z
 
 Ở bất kỳ thời đại nào thì việc đi vệ sinh là nhu cầu thiết yếu của con người và chẳng ai có thể "chối từ". Vậy nên ngay từ thời xa xưa, con người đã biết phát minh, xây dựng những nhà vệ sinh hợp thời hợp thế để phục vụ cho nhu cầu thiết yếu đó.
 
-<img src="https://afamilycdn.com/thumb_w/650/150157425591193600/2020/7/29/roman-latrine-gettyimages-639163710-15960120501501226642970.webp" alt="Chỉ xem qua hình ảnh này bạn sẽ tưởng tượng ra cách người giàu thời Trung cổ giải quyết nỗi buồn, ngạc nhiên hơn nữa là việc xả thẳng ra môi trường - Ảnh 1." loading="lazy" decoding="async" />
 
 <figure>
   <img src="/uploads/2020/07/2.webp" alt="Cách đi vệ sinh kiểu tập thể của người La Mã cổ đại." loading="lazy" decoding="async" />

@@ -15,3 +15,6 @@
 # Trang tìm kiếm đã bỏ
 /search   /posts  301
 /search/  /posts  301
+
+# Bài đã gỡ khỏi site (2026-09-06), URL cũ đã được index nên chuyển về chuyên mục
+/posts/web-phim-nguoi-lon-pornhub-tong-hop-du-lieu-cua-nam-2019   /category/giai-tri  301

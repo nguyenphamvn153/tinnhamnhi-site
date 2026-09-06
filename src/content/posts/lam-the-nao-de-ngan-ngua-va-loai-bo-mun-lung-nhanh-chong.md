@@ -15,8 +15,6 @@ Mụn lưng là vấn đề thường gặp và khiến nhiều người cảm t
 
 Mụn lưng thường khiến bạn khó chịu và đau đớn. Việc loại bỏ mụn ở khu vực này cũng rất khó, do bạn không thể nhìn thấy chúng.
 
-<img src="/uploads/2023/04/munlung.webp" alt="" loading="lazy" decoding="async" />
-
 Lưng có mật độ tuyến bã nhờn cao giống như ngực và mặt. Nếu lỗ chân lông bị tắc do chất bẩn, sẽ dẫn đến tình trạng mụn trứng cá, đầu đen và đầu trắng. Hãy cùng tìm hiểu cách khắc phục tình trạng này qua bài viết sau.
 
 ## Các phương pháp trị mụn lưng

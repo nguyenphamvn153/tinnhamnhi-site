@@ -29,8 +29,6 @@ Viso là một sản phẩm hướng tới người tiêu dùng ở phân khúc 
 
 Khi mới bước đầu đặt chân vào thị trường Việt Nam, Unilever cũng như rất nhiều tập đoàn đa quốc gia khác chọn hình thức liên doanh để từng bước tiếp cận thị trường. Unilever khi đó đã hợp tác với nhiều công ty bột giặt đang có thị phần lớn ở trong nước để thành lập liên doanh. Và các liên doanh như Lever-Viso, Lever-Haso lần lượt được ra đời. Không dừng lại ở đó, các tập đoàn đa quốc gia còn tìm đủ mọi cách để có thể biến những liên doanh như vậy thành công ty 100% có vốn nước ngoài. Và trường hợp của Lever-Viso cũng không là ngoại lệ. Từ một doanh nghiệp thuần Việt, Viso đã trở thành liên doanh và cuối cùng thương hiệu Viso đã hoàn toàn không còn là của người Việt nữa.
 
-<img src="/uploads/2019/07/4-3.webp" alt="" loading="lazy" decoding="async" />
-
 **NƯỚC GIẢI KHÁT TRIBECO**
 
 Tribeco trước khi bị Uni-President Việt Nam - công ty con của Uni-President Đài Loan thâu tóm, đã có lịch sử tận 20 năm hoạt động và luôn được người tiêu dùng bình chọn là hàng Việt Nam chất lượng cao trong suốt 11 năm liên tục. Lên sàn vào cuối năm 2001 và chính thức liên doanh vào năm 2008, cuối cùng đã tuyên bố giải thể vào tháng 8/2012.

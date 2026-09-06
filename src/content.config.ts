@@ -13,6 +13,8 @@ const posts = defineCollection({
 		excerpt: z.string().optional(),
 		featuredImage: z.string().optional(),
 		featuredImageAlt: z.string().optional(),
+		/** Ghi nguồn ảnh, hiện dưới ảnh đại diện. */
+		featuredImageCredit: z.string().optional(),
 		publishedAt: z.coerce.date().optional(),
 		updatedAt: z.coerce.date().optional(),
 		draft: z.boolean().default(false),
