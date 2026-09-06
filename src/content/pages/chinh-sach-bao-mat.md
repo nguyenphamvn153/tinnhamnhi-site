@@ -1,7 +1,7 @@
 ---
 title: "Chính sách bảo mật"
-excerpt: "Tin Nhảm Nhí không thu thập thông tin cá nhân và không dùng cookie. Đây là toàn bộ những gì xảy ra khi bạn đọc trang này."
-updatedAt: 2026-09-06T12:00:00.000Z
+excerpt: "Tin Nhảm Nhí không thu thập thông tin cá nhân, không dùng cookie và không cài công cụ theo dõi nào. Đây là toàn bộ những gì xảy ra khi bạn đọc trang này."
+updatedAt: 2026-09-06T04:00:00.000Z
 ---
 
 Trang này mô tả đúng những gì xảy ra khi bạn truy cập Tin Nhảm Nhí. Ngắn, vì thật sự không có nhiều thứ để nói.
@@ -16,15 +16,11 @@ Trang này không đặt cookie nào lên trình duyệt của bạn.
 
 Thứ duy nhất được lưu lại là **lựa chọn giao diện sáng hay tối**, cất trong bộ nhớ cục bộ của trình duyệt (localStorage). Dữ liệu này nằm trên máy bạn, không được gửi đi đâu cả, và biến mất khi bạn xoá dữ liệu duyệt web.
 
-## Về công cụ đo lường
+## Không có công cụ theo dõi
 
-Không Google Analytics, không pixel Facebook, không heatmap, không quảng cáo.
+Không Google Analytics, không pixel Facebook, không heatmap, không bất kỳ dịch vụ đo lường nào. Chúng tôi không biết bạn là ai, đọc bài nào hay ở lại bao lâu.
 
-Chúng tôi chỉ dùng **Cloudflare Web Analytics** để biết mỗi bài có bao nhiêu lượt xem. Công cụ này **không đặt cookie, không dùng bộ nhớ trình duyệt và không tạo dấu vân tay thiết bị** ※要確認 — nghĩa là nó không nhận ra bạn giữa hai lần truy cập, và không theo dõi bạn sang website khác. Thứ được ghi nhận là số liệu tổng hợp: trang nào được xem, đến từ nguồn nào, loại thiết bị và quốc gia. Chi tiết cách hoạt động xem tại [tài liệu của Cloudflare](https://developers.cloudflare.com/web-analytics/).
-
-Để hoạt động, công cụ này tải một đoạn mã nhỏ từ `static.cloudflareinsights.com`. Đây là **yêu cầu duy nhất** trang gửi ra bên ngoài khi bạn đọc bài — phông chữ và toàn bộ hình ảnh đều nằm sẵn trên máy chủ của trang.
-
-Nếu bạn không muốn bị đếm, hầu hết trình chặn quảng cáo đều chặn được đoạn mã này, và trang vẫn hoạt động bình thường.
+Phông chữ và toàn bộ hình ảnh đều được lưu ngay trên máy chủ của trang, không tải từ dịch vụ bên thứ ba — nghĩa là khi đọc bài, trình duyệt của bạn không gửi yêu cầu nào ra ngoài Tin Nhảm Nhí.
 
 ## Nhật ký máy chủ
 
