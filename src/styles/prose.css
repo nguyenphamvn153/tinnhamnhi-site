@@ -1,9 +1,6 @@
 /* Kiểu chữ cho nội dung bài viết (HTML sinh từ Markdown). */
 .prose {
-	/* Cột chữ trên điện thoại chỉ rộng ~327px. Ở cỡ 17,7px mỗi dòng chưa tới 30 ký
-	   tự nên biên phải răng cưa rất mạnh. Hạ xuống 16px trên máy nhỏ, vẫn 19px ở
-	   màn lớn nơi cột đủ rộng. */
-	font-size: clamp(1rem, 0.85rem + 0.6vw, 1.2rem);
+	font-size: var(--step-1);
 	line-height: 1.8;
 	color: var(--text);
 }
