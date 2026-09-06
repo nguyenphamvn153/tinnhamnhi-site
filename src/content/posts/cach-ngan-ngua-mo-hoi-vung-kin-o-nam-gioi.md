@@ -75,7 +75,6 @@ Có một số loại sản phẩm khử mùi và giảm mồ hôi vùng kín c�
 
 – Kích ứng, phát ban trên da
 
-<img src="/uploads/2022/05/1-4.webp" alt="" loading="lazy" decoding="async" />
 
 Có thể mồ hôi vùng kín sẽ gây ra cho bạn nhiều bất tiện trong cuộc sống hằng ngày nhưng đừng vì thế mà gấp đôi liều lượng, thay vào đó bạn hãy tìm những sản phẩm vệ sinh có công thức đặc biệt với thành phần tự nhiên, mùi hương dịu nhẹ, được tạo ra dành riêng cho vùng kín của nam giới mà không chứa những thành phần gây rủi ro như trên.
 

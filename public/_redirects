@@ -18,3 +18,23 @@
 
 # Bài đã gỡ khỏi site (2026-09-06), URL cũ đã được index nên chuyển về chuyên mục
 /posts/web-phim-nguoi-lon-pornhub-tong-hop-du-lieu-cua-nam-2019   /category/giai-tri  301
+
+# Ảnh đã đổi tên cho chuẩn SEO (2026-09-06) — giữ 301 cho đường dẫn cũ
+/uploads/2022/02/han-tools.com_shutterstock.webp  /uploads/2022/02/nam-gioi-tam-goi-buoi-sang.webp  301
+/uploads/2022/02/han-tools.com_shutterstock-1.webp  /uploads/2022/02/ve-sinh-vanh-tai-nam-gioi.webp  301
+/uploads/2022/02/han-tools.com_shutterstock-2.webp  /uploads/2022/02/ve-sinh-ban-chan-nam-gioi.webp  301
+/uploads/2021/05/han-tools.com_shutterstock.webp  /uploads/2021/05/nam-gioi-ngu-tha-rong-tren-giuong.webp  301
+/uploads/2021/05/han-tools.com_shutterstock-1.webp  /uploads/2021/05/nam-gioi-kho-chiu-mat-ngu.webp  301
+/uploads/2021/05/han-tools.com_shutterstock-2.webp  /uploads/2021/05/nam-gioi-ngu-ngon-giac.webp  301
+/uploads/2021/05/han-tools.com_shutterstock-3.webp  /uploads/2021/05/thuc-day-vuon-vai-buoi-sang.webp  301
+/uploads/2021/05/han-tools.com_shutterstock-1-1.webp  /uploads/2021/05/manscaping-cao-long-vung-kin.webp  301
+/uploads/2021/05/han-tools.com_shutterstock-4.webp  /uploads/2021/05/nam-gioi-quan-khan-tam.webp  301
+/uploads/2023/07/han-tools.com_shutterstock-1.webp  /uploads/2023/07/cao-long-nach-dung-cach-nam-gioi.webp  301
+/uploads/2023/07/han-tools.com_shutterstock-2.webp  /uploads/2023/07/vung-nach-nam-gioi-sau-khi-cao.webp  301
+/uploads/2023/07/han-tools.com_shutterstock.webp  /uploads/2023/07/nam-gioi-gio-tay-lo-vung-nach.webp  301
+/uploads/2023/02/han-tools.com_shutterstock-2.webp  /uploads/2023/02/nam-gioi-lau-mo-hoi-ngoai-troi.webp  301
+/uploads/2023/02/han-tools.com_shutterstock.webp  /uploads/2023/02/ca-phe-lam-tang-tiet-mo-hoi.webp  301
+/uploads/2023/02/han-tools.com_shutterstock-1.webp  /uploads/2023/02/do-an-cay-lam-tang-tiet-mo-hoi.webp  301
+/uploads/2023/02/han-tools.com_shutterstock-1-1.webp  /uploads/2023/02/nam-gioi-dung-lan-khu-mui.webp  301
+/uploads/2023/05/han-tools.com_shutterstock-1.webp  /uploads/2023/05/xac-dinh-loai-da-truoc-khi-rua-mat.webp  301
+/uploads/2023/05/han-tools.com_shutterstock.webp  /uploads/2023/05/nam-gioi-rua-mat-bang-nuoc-sach.webp  301

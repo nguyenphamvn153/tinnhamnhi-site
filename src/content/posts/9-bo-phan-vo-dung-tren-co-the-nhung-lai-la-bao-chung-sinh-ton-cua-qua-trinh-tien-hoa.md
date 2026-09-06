@@ -58,7 +58,6 @@ Các loài động vật có vú đều có một cơ quan đặc biệt gọi l
 
 ### \5. Răng khôn
 
-<img src="/uploads/2020/08/photo-4-1597204278754679453843.webp" alt="" loading="lazy" decoding="async" />
 
 Chắc hẳn nhiều người từng phải đau khổ vì chiếc răng này. Nhẹ thì ê ẩm, nặng thì đau nhức đến mức không ăn được gì, và phải tới nhờ các nha sĩ giải quyết.
 

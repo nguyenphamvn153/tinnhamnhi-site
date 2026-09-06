@@ -53,7 +53,6 @@ Có thông tin cho biết trong không khí nước ta không chỉ có bụi PM
 
 Các nhà nghiên cứu khẳng định việc loại bỏ PM ra khỏi không khí ngoài trời gần như là điều không thể, đặc biệt là đối với những hạt PM kích thước càng nhỏ thì điều đó càng khó khăn hơn nữa. Riêng không khí trong nhà thì hiện một số hãng sản xuất đã cung cấp một số thiết bị lọc không khí, máy điều hòa,… với tuyên bố lọc được tới bụi PM10, PM2.5,… riêng bụi PM1.0 mình tìm thử vẫn thấy có thiết bị lọc được nhưng chưa thấy phổ biến tại Việt Nam.
 
-<img src="/uploads/2019/10/4120006_bui_nano_Tinhte_9.webp" alt="" loading="lazy" decoding="async" />
 
 Và có lẽ đọc cho tới đây cái anh em đặc câu hỏi nhiều nhất chính là đeo khẩu trang có lọc được các hạt bụi mịn PM hay không. Đầu tiên Tổ chức quản lý dược phẩm và thực phẩm Mỹ FDA khẳng định rằng khẩu trang vải hoặc một số loại khẩu trang thoải mái, thời trang mà nhiều anh em lẫn chị em phụ nữ hay xài gần như không hề có tác dụng bảo vệ chúng ta khỏi bụi.
 

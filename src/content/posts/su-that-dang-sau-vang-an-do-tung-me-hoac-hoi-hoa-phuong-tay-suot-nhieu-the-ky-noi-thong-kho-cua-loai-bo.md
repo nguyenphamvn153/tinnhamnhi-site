@@ -6,7 +6,7 @@ category: "chuyen-la"
 tags:
   - "lịch sử"
   - "nghệ thuật"
-featuredImage: "/uploads/2019/06/7.webp"
+featuredImage: "/uploads/2019/06/vang-an-do-sac-to.webp"
 publishedAt: 2019-06-26T01:54:08.000Z
 updatedAt: 2026-04-16T10:57:14.994Z
 ---
