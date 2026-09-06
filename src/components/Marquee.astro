@@ -1,0 +1,42 @@
+---
+/** Dải chữ chạy ngang. Nội dung lặp hai lần để vòng lặp liền mạch. */
+interface Props {
+	text: string;
+	/** Giây cho một vòng. Càng lớn càng chậm. */
+	duration?: number;
+}
+const { text, duration = 38 } = Astro.props;
+---
+
+<div class="marquee" aria-hidden="true">
+	<div class="marquee__track" style={`animation-duration: ${duration}s`}>
+		<span class="marquee__run">{text}</span>
+		<span class="marquee__run">{text}</span>
+	</div>
+</div>
+
+<style>
+	.marquee {
+		overflow: hidden;
+		border-top: 1px solid var(--border);
+		border-bottom: 1px solid var(--border);
+		background: var(--bg-band);
+		padding-block: 0.7rem;
+	}
+
+	.marquee__track {
+		display: flex;
+		width: max-content;
+		animation-name: tnn-slide;
+		animation-timing-function: linear;
+		animation-iteration-count: infinite;
+	}
+
+	.marquee__run {
+		padding-right: 1.9rem;
+		font-size: var(--step--1);
+		letter-spacing: 0.16em;
+		color: var(--muted);
+		white-space: nowrap;
+	}
+</style>

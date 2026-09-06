@@ -1,0 +1,104 @@
+---
+import { categoryBySlug } from "../site.config";
+import type { Post } from "../utils/posts";
+
+interface Props {
+	post: Post;
+	n: number;
+	last?: boolean;
+}
+
+const { post, n, last = false } = Astro.props;
+const cat = post.data.category ? categoryBySlug.get(post.data.category) : undefined;
+---
+
+<a href={`/posts/${post.id}`} class:list={["row", last && "row--last"]}>
+	<span class="index-num row__num">{String(n).padStart(2, "0")}</span>
+	<span class="row__body">
+		<span class="serif row__title"><span class="sweep">{post.data.title}</span></span>
+		{post.data.excerpt && <span class="row__excerpt">{post.data.excerpt}</span>}
+		{cat && <span class="eyebrow row__cat-mobile">{cat.label}</span>}
+	</span>
+	{cat && <span class="eyebrow row__cat">{cat.label}</span>}
+</a>
+
+<style>
+	.row {
+		display: flex;
+		align-items: flex-start;
+		gap: var(--space-4);
+		padding: var(--space-5) var(--space-3);
+		border-top: 1px solid var(--border);
+		border-radius: var(--radius-lg);
+		transition: background 0.4s ease;
+	}
+
+	.row:hover {
+		background: var(--bg-subtle);
+	}
+
+	.row--last {
+		border-bottom: 1px solid var(--border);
+	}
+
+	.row__num {
+		font-size: 1.35rem;
+		width: 2.6rem;
+		flex: none;
+		padding-top: 0.15em;
+	}
+
+	.row__body {
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-2);
+		flex-grow: 1;
+		min-width: 0;
+	}
+
+	.row__title {
+		font-size: var(--step-1);
+		font-weight: 600;
+		line-height: 1.35;
+	}
+
+	.row__excerpt {
+		font-size: var(--step--1);
+		line-height: 1.7;
+		color: var(--muted);
+	}
+
+	.row__cat {
+		display: none;
+		width: 6rem;
+		flex: none;
+		text-align: right;
+		padding-top: 0.35em;
+	}
+
+	.row__cat-mobile {
+		align-self: flex-start;
+	}
+
+	@media (min-width: 48rem) {
+		.row {
+			align-items: center;
+			gap: var(--space-6);
+		}
+		.row__num {
+			font-size: 1.9rem;
+			width: 4rem;
+			padding-top: 0;
+		}
+		.row__title {
+			font-size: var(--step-2);
+		}
+		.row__cat {
+			display: block;
+			padding-top: 0;
+		}
+		.row__cat-mobile {
+			display: none;
+		}
+	}
+</style>

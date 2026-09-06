@@ -1,0 +1,52 @@
+---
+import type { GetStaticPaths, Page } from "astro";
+import Pagination from "../../../components/Pagination.astro";
+import PostCard from "../../../components/PostCard.astro";
+import Base from "../../../layouts/Base.astro";
+import { POSTS_PER_PAGE, site } from "../../../site.config";
+import { getPublishedPosts, type Post } from "../../../utils/posts";
+
+/** Trang 1 do posts/index.astro đảm nhiệm (URL /posts/), ở đây chỉ sinh /posts/2/ trở đi. */
+export const getStaticPaths: GetStaticPaths = async ({ paginate }) => {
+	const posts = await getPublishedPosts();
+	return paginate(posts, { pageSize: POSTS_PER_PAGE }).filter((entry) => entry.params.page !== "1");
+};
+
+const { page: raw } = Astro.props as { page: Page<Post> };
+/** Trang 1 sống ở /posts/ chứ không phải /posts/1/, nên viết lại link "trang trước". */
+const normalise = (url?: string) => (url && /^\/posts\/trang\/1\/?$/.test(url) ? "/posts" : url);
+const page = { ...raw, url: { ...raw.url, prev: normalise(raw.url.prev) } };
+---
+
+<Base
+	title={`Tất cả bài viết — trang ${page.currentPage}`}
+	description={`Toàn bộ bài viết trên ${site.title}, trang ${page.currentPage}.`}
+	noindex={true}
+>
+	<div class="wrap section">
+		<header class="page-head">
+			<h1 class="page-head__title">Tất cả bài viết</h1>
+			<p class="page-head__sub">Trang {page.currentPage} / {page.lastPage}</p>
+		</header>
+		<div class="grid">
+			{page.data.map((post) => <PostCard post={post} />)}
+		</div>
+		<Pagination page={page} />
+	</div>
+</Base>
+
+<style>
+	.page-head {
+		margin-bottom: var(--space-6);
+		padding-bottom: var(--space-4);
+		border-bottom: 2px solid var(--text);
+	}
+	.page-head__title {
+		font-size: var(--step-3);
+	}
+	.page-head__sub {
+		margin-top: var(--space-1);
+		color: var(--muted);
+		font-size: var(--step--1);
+	}
+</style>

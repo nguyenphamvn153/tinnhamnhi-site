@@ -1,5 +1,10 @@
 node_modules
 dist
 .astro
-uploads
-data.db
+.DS_Store
+# Ảnh biến thể sinh tự động lúc build (bản gốc trong public/uploads vẫn được commit)
+public/uploads/**/*-[0-9]*w.webp
+public/uploads/**/*-[0-9]*w.avif
+
+# Thông tin FTP để deploy — không bao giờ commit
+.env

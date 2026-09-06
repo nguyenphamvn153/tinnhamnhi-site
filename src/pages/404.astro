@@ -1,33 +1,42 @@
 ---
+import PostCard from "../components/PostCard.astro";
 import Base from "../layouts/Base.astro";
+import { getPublishedPosts } from "../utils/posts";
+
+const latest = (await getPublishedPosts()).slice(0, 3);
 ---
 
-<Base title="Page not found">
-	<div class="not-found">
-		<h1>404</h1>
-		<p>The page you're looking for doesn't exist.</p>
-		<a href="/">Go back home</a>
+<Base title="Không tìm thấy trang" noindex={true}>
+	<div class="wrap notfound">
+		<p class="eyebrow">Lỗi 404</p>
+		<h1 class="notfound__title">Trang này đi đâu mất rồi</h1>
+		<p class="notfound__text">
+			Liên kết có thể đã cũ hoặc bị gõ sai. Thử quay về <a href="/">trang chủ</a> hoặc đọc mấy bài mới nhất bên dưới.
+		</p>
+	</div>
+	<div class="wrap section">
+		<div class="grid">
+			{latest.map((post) => <PostCard post={post} />)}
+		</div>
 	</div>
 </Base>
 
 <style>
-	.not-found {
-		text-align: center;
-		padding: var(--spacing-24) var(--spacing-6);
+	.notfound {
+		max-width: var(--content-width);
+		margin-top: var(--space-8);
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-3);
 	}
-
-	.not-found h1 {
-		font-size: var(--font-size-5xl);
-		margin-bottom: var(--spacing-2);
-		color: var(--color-border);
+	.notfound__title {
+		font-size: var(--step-4);
 	}
-
-	.not-found p {
-		color: var(--color-muted);
-		margin-bottom: var(--spacing-6);
+	.notfound__text {
+		color: var(--text-secondary);
 	}
-
-	.not-found a {
-		color: var(--color-text);
+	.notfound__text a {
+		color: var(--accent);
+		text-decoration: underline;
 	}
 </style>

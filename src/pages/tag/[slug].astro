@@ -1,120 +1,57 @@
 ---
-import { getTerm, getEmDashCollection, getEntryTerms, decodeSlug } from "emdash";
-import Base from "../../layouts/Base.astro";
+import type { GetStaticPaths } from "astro";
 import PostCard from "../../components/PostCard.astro";
-import { getReadingTime } from "../../utils/reading-time";
+import Base from "../../layouts/Base.astro";
+import { site } from "../../site.config";
+import { getAllTags, getPublishedPosts, tagSlug, type Post } from "../../utils/posts";
 
-const slug = decodeSlug(Astro.params.slug);
-const term = slug ? await getTerm("tag", slug) : null;
+export const getStaticPaths: GetStaticPaths = async () => {
+	const posts = await getPublishedPosts();
+	const tags = await getAllTags();
+	return tags.map((tag) => ({
+		params: { slug: tag.slug },
+		props: { tag, posts: posts.filter((p) => p.data.tags.some((t) => tagSlug(t) === tag.slug)) },
+	}));
+};
 
-if (!term) {
-	return Astro.redirect("/404");
+interface Props {
+	tag: { slug: string; label: string; count: number };
+	posts: Post[];
 }
 
-const { entries: posts } = await getEmDashCollection("posts", {
-	where: { tag: term.slug },
-	orderBy: { published_at: "desc" },
-});
-
-// Fetch tags for display on each post card
-const filteredPosts = await Promise.all(
-	posts.map(async (post) => {
-		const tags = await getEntryTerms("posts", post.data.id, "tag");
-		return { post, tags };
-	})
-);
+const { tag, posts } = Astro.props as Props;
 ---
 
 <Base
-	title={`Posts tagged "${term.label}"`}
-	description={`All posts tagged with ${term.label}`}
+	title={`#${tag.label}`}
+	description={`Tổng hợp ${posts.length} bài viết về ${tag.label} trên ${site.title} — chuyện sức khoẻ, grooming, lối sống và những thứ nhảm nhí tử tế dành cho đàn ông.`}
+	jsonLd={[{ "@type": "CollectionPage", name: `#${tag.label}` }]}
 >
-	<section class="archive-section">
-		<header class="archive-header">
-			<span class="archive-label">Tag</span>
-			<h1 class="archive-title">{term.label}</h1>
-			<p class="archive-count">
-				{filteredPosts.length}
-				{filteredPosts.length === 1 ? "post" : "posts"}
-			</p>
+	<div class="wrap section">
+		<header class="page-head">
+			<p class="eyebrow">Thẻ</p>
+			<h1 class="page-head__title">#{tag.label}</h1>
+			<p class="page-head__sub">{posts.length} bài viết</p>
 		</header>
-
-		{
-			filteredPosts.length === 0 ? (
-				<p class="no-posts">No posts with this tag yet.</p>
-			) : (
-				<div class="posts-grid">
-					{filteredPosts.map(({ post, tags }) => (
-						<PostCard
-							title={post.data.title}
-							excerpt={post.data.excerpt}
-							featuredImage={post.data.featured_image}
-							href={`/posts/${post.id}`}
-							date={post.data.publishedAt ?? undefined}
-							readingTime={getReadingTime(post.data.content)}
-							tags={tags.map((t) => ({ slug: t.slug, label: t.label }))}
-						/>
-					))}
-				</div>
-			)
-		}
-	</section>
+		<div class="grid">
+			{posts.map((post, i) => <PostCard post={post} priority={i === 0} />)}
+		</div>
+	</div>
 </Base>
 
 <style>
-	.archive-section {
-		max-width: var(--wide-width);
-		margin: 0 auto;
-		padding: var(--spacing-12) var(--spacing-6);
+	.page-head {
+		margin-bottom: var(--space-6);
+		padding-bottom: var(--space-4);
+		border-bottom: 2px solid var(--text);
 	}
-
-	.archive-header {
-		margin-bottom: var(--spacing-12);
-		padding-bottom: var(--spacing-8);
-		border-bottom: 1px solid var(--color-border-subtle);
+	.page-head__title {
+		font-size: var(--step-3);
+		margin-top: var(--space-1);
 	}
-
-	.archive-label {
-		display: block;
-		font-size: var(--font-size-xs);
-		font-weight: 500;
-		color: var(--color-accent);
-		text-transform: uppercase;
-		letter-spacing: var(--tracking-wider);
-		margin-bottom: var(--spacing-2);
-	}
-
-	.archive-title {
-		font-size: var(--font-size-4xl);
-		font-weight: 700;
-		letter-spacing: var(--tracking-tight);
-		margin-bottom: var(--spacing-2);
-	}
-
-	.archive-count {
-		font-size: var(--font-size-sm);
-		color: var(--color-muted);
-	}
-
-	.posts-grid {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		gap: var(--spacing-12) var(--spacing-8);
-	}
-
-	.no-posts {
-		color: var(--color-muted);
-	}
-
-	@media (max-width: 900px) {
-		.posts-grid {
-			grid-template-columns: repeat(2, 1fr);
-		}
-	}
-
-	@media (max-width: 600px) {
-		.posts-grid {
-			grid-template-columns: 1fr;
-		}
+	.page-head__sub {
+		margin-top: var(--space-2);
+		color: var(--muted);
+		font-size: var(--step--1);
 	}
 </style>

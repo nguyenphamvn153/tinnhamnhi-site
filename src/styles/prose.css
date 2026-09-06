@@ -1,0 +1,123 @@
+/* Kiểu chữ cho nội dung bài viết (HTML sinh từ Markdown). */
+.prose {
+	font-size: var(--step-1);
+	line-height: 1.8;
+	color: var(--text);
+}
+
+.prose > * + * {
+	margin-top: 1.4em;
+}
+
+.prose h2 {
+	font-family: var(--font-serif);
+	font-size: var(--step-2);
+	margin-top: 2em;
+	scroll-margin-top: calc(var(--header-height) + 3rem);
+}
+
+.prose h3 {
+	font-family: var(--font-serif);
+	font-size: var(--step-1);
+	font-weight: 600;
+	margin-top: 1.8em;
+	scroll-margin-top: calc(var(--header-height) + 3rem);
+}
+
+.prose h4 {
+	font-family: var(--font-serif);
+	font-size: var(--step-0);
+	font-weight: 600;
+	margin-top: 1.6em;
+}
+
+.prose a {
+	color: var(--accent);
+	text-decoration: underline;
+	text-underline-offset: 3px;
+	text-decoration-thickness: 1px;
+}
+
+.prose a:hover {
+	text-decoration-thickness: 2px;
+}
+
+.prose strong {
+	font-weight: 500;
+	color: var(--text);
+}
+
+.prose ul,
+.prose ol {
+	padding-left: 1.25em;
+}
+
+.prose li + li {
+	margin-top: 0.4em;
+}
+
+.prose blockquote {
+	margin-inline: 0;
+	padding: var(--space-4) var(--space-5);
+	border-left: 2px solid var(--accent);
+	background: var(--bg-subtle);
+	border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+	color: var(--text-secondary);
+	font-family: var(--font-serif);
+	font-style: italic;
+}
+
+.prose img {
+	/* Ảnh cũ từ WordPress có nhiều khổ khác nhau: không phóng to quá kích thước gốc
+	   để tránh vỡ nét, ảnh nhỏ thì căn giữa. */
+	width: auto;
+	max-width: 100%;
+	margin-inline: auto;
+	border-radius: var(--radius-lg);
+	background: var(--surface);
+}
+
+.prose figure {
+	margin: 0;
+}
+
+.prose figcaption {
+	margin-top: var(--space-2);
+	font-size: var(--step--1);
+	color: var(--muted);
+	text-align: center;
+}
+
+.prose hr {
+	border: none;
+	border-top: 1px solid var(--border);
+	margin-block: var(--space-6);
+}
+
+.prose iframe {
+	width: 100%;
+	aspect-ratio: 16 / 9;
+	height: auto;
+	border: 0;
+	border-radius: var(--radius-lg);
+}
+
+/* Khối nhiều cột / gallery sinh ra từ nội dung WordPress cũ */
+.prose .content-columns,
+.prose .content-gallery {
+	display: grid;
+	gap: var(--space-3);
+	grid-template-columns: 1fr;
+}
+
+@media (min-width: 34rem) {
+	.prose .content-columns,
+	.prose .content-gallery {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+.prose .content-embed {
+	overflow: hidden;
+	border-radius: var(--radius-lg);
+}
