@@ -182,6 +182,9 @@ const marqueeText = "toàn tin nhảm nhí · chuyện sức khoẻ · grooming 
 				</a>
 				<nav class="site-footer__links" aria-label="Liên kết chân trang">
 					{categories.map((c) => <a href={`/category/${c.slug}`} class="chip">{c.label}</a>)}
+					<a href="/pages/gioi-thieu" class="chip">Giới thiệu</a>
+					<a href="/pages/lien-he" class="chip">Liên hệ</a>
+					<a href="/pages/chinh-sach-bao-mat" class="chip">Bảo mật</a>
 					<a href="/rss.xml" class="chip">RSS</a>
 				</nav>
 				<p class="site-footer__copy">© {new Date().getFullYear()} {site.title}</p>

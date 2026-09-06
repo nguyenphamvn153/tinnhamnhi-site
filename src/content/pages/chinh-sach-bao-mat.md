@@ -2,7 +2,6 @@
 title: "Chính sách bảo mật"
 excerpt: "Tin Nhảm Nhí không thu thập thông tin cá nhân, không dùng cookie và không cài công cụ theo dõi nào. Đây là toàn bộ những gì xảy ra khi bạn đọc trang này."
 updatedAt: 2026-09-06T04:00:00.000Z
-draft: true
 ---
 
 Trang này mô tả đúng những gì xảy ra khi bạn truy cập Tin Nhảm Nhí. Ngắn, vì thật sự không có nhiều thứ để nói.
@@ -43,4 +42,4 @@ Nếu sau này website có thêm quảng cáo, công cụ phân tích hay bất 
 
 ## Liên hệ
 
-Thắc mắc về chính sách này, gửi thư tới **[EMAIL LIÊN HỆ]**.
+Thắc mắc về chính sách này, gửi thư tới [support@tinnhamnhi.com](mailto:support@tinnhamnhi.com).

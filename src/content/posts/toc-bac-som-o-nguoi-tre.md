@@ -92,5 +92,3 @@ Nếu bạn dưới 30 tuổi và mang một mái tóc lấm tấm bạc đến 
 Tóc bạc sớm ở người trẻ không phải dấu chấm hết cho tuổi thanh xuân. Nó thường là một tín hiệu cầu cứu từ cơ thể, báo rằng bạn đang sống quá vội, ăn uống thiếu chất, hoặc đang dung nạp những thói quen độc hại.
 
 Trong năm cơ chế kể trên — stress, dinh dưỡng, tự miễn, di truyền và lối sống — bốn cái đầu bạn hoàn toàn có thể tác động được. Chỉ có gen là không đổi được. Mà nói cho cùng, nếu vài sợi bạc là cái giá của một giai đoạn sống hết mình, thì cũng chẳng tệ lắm đâu.
-
-*Bài viết mang tính tham khảo, không thay thế chẩn đoán và tư vấn của bác sĩ. Nếu tóc bạc đi kèm rụng tóc nhiều, mệt mỏi kéo dài hay các thay đổi bất thường khác, hãy đi khám.*

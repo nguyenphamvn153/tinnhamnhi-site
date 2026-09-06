@@ -2,7 +2,6 @@
 title: "Giới thiệu"
 excerpt: "Tin Nhảm Nhí là blog dành cho đàn ông Việt: sức khoẻ, grooming, lối sống và những chuyện nhảm nhí nhưng có thật. Hoạt động từ năm 2019."
 updatedAt: 2026-09-06T04:00:00.000Z
-draft: true
 ---
 
 Tin Nhảm Nhí ra đời năm 2019, với một mục tiêu khiêm tốn: viết những thứ đàn ông thật sự thắc mắc nhưng ngại hỏi, hoặc chẳng biết hỏi ai.
@@ -31,10 +30,6 @@ Cái tên "Tin Nhảm Nhí" là một lời tự trào, không phải lời hứ
 
 Các bài viết về sức khoẻ trên Tin Nhảm Nhí mang tính **tham khảo và phổ biến kiến thức**, không thay thế cho chẩn đoán, tư vấn hay phác đồ điều trị của bác sĩ. Nếu bạn có triệu chứng bất thường, hãy đi khám thay vì tra Google — kể cả khi Google dẫn bạn tới đây.
 
-## Ai đứng sau
-
-**[PHẦN NÀY BẠN ĐIỀN — tên hoặc bút danh, nghề nghiệp, lý do lập blog. Đây là phần người đọc và cả Google quan tâm nhất khi đánh giá độ tin cậy của một trang viết về sức khoẻ.]**
-
 ## Liên hệ
 
-Góp ý, báo lỗi hoặc hợp tác, xem trang [Liên hệ](/pages/lien-he).
+Góp ý, báo lỗi hoặc hợp tác, viết thư tới [support@tinnhamnhi.com](mailto:support@tinnhamnhi.com) hoặc xem trang [Liên hệ](/pages/lien-he).

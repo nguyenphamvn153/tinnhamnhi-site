@@ -2,10 +2,9 @@
 title: "Liên hệ"
 excerpt: "Góp ý nội dung, báo lỗi, khiếu nại bản quyền hình ảnh hay đề xuất hợp tác — đây là cách liên lạc với Tin Nhảm Nhí."
 updatedAt: 2026-09-06T04:00:00.000Z
-draft: true
 ---
 
-Mọi liên hệ xin gửi về: **[EMAIL LIÊN HỆ]**
+Mọi liên hệ xin gửi về: [support@tinnhamnhi.com](mailto:support@tinnhamnhi.com)
 
 Website không có biểu mẫu liên hệ, vì đây là trang tĩnh và chúng tôi không muốn thu thập dữ liệu của bạn chỉ để nhận một lời nhắn. Email là đủ.
 
@@ -21,4 +20,4 @@ Website không có biểu mẫu liên hệ, vì đây là trang tĩnh và chúng
 
 ## Thời gian phản hồi
 
-**[BẠN ĐIỀN — ví dụ: trong vòng 3–5 ngày làm việc. Đừng hứa nhanh hơn mức bạn làm được.]**
+Chúng tôi cố gắng trả lời trong vòng **3–5 ngày làm việc**. Riêng khiếu nại bản quyền hình ảnh sẽ được ưu tiên xử lý sớm hơn.

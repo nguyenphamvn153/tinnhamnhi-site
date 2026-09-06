@@ -2,10 +2,11 @@
 import type { GetStaticPaths } from "astro";
 import { render } from "astro:content";
 import Img from "../../components/Img.astro";
+import HealthNotice from "../../components/HealthNotice.astro";
 import PostCard from "../../components/PostCard.astro";
 import Prose from "../../components/Prose.astro";
 import Base from "../../layouts/Base.astro";
-import { categoryBySlug, site } from "../../site.config";
+import { categoryBySlug, healthDisclaimerCategories, site } from "../../site.config";
 import { formatDate, getPublishedPosts, readingTime, tagSlug, type Post } from "../../utils/posts";
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -27,6 +28,7 @@ const sameCat = all.filter((p) => p.id !== post.id && p.data.category === catego
 const related = [...sameCat, ...all.filter((p) => p.id !== post.id && !sameCat.includes(p))].slice(0, 3);
 
 const toc = headings.filter((h) => h.depth === 2 || h.depth === 3);
+const needsHealthNotice = !!category && healthDisclaimerCategories.includes(category);
 
 const description = excerpt ?? `${title} — ${site.title}`;
 const shareText = encodeURIComponent(title);
@@ -117,6 +119,8 @@ const jsonLd = [
 			<Prose>
 				<Content />
 			</Prose>
+
+			{needsHealthNotice && <HealthNotice />}
 
 			{
 				tags.length > 0 && (
