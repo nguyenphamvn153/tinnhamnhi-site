@@ -30,6 +30,20 @@ Cái tên "Tin Nhảm Nhí" là một lời tự trào, không phải lời hứ
 
 Các bài viết về sức khoẻ trên Tin Nhảm Nhí mang tính **tham khảo và phổ biến kiến thức**, không thay thế cho chẩn đoán, tư vấn hay phác đồ điều trị của bác sĩ. Nếu bạn có triệu chứng bất thường, hãy đi khám thay vì tra Google — kể cả khi Google dẫn bạn tới đây.
 
+## Ai đứng sau
+
+Tin Nhảm Nhí là một dự án cá nhân, vận hành độc lập, không thuộc tổ chức truyền thông hay đơn vị tài trợ nào. Trang do **Anh Nhảm** biên tập.
+
+Anh Nhảm không công khai danh tính thật. Điều đó không có nghĩa là không ai chịu trách nhiệm — dưới đây là những gì trang này cam kết, kèm một địa chỉ để bạn bắt chúng tôi giữ lời.
+
+**Chúng tôi không phải bác sĩ.** Các bài về sức khoẻ là tổng hợp và diễn giải lại từ tài liệu công khai cho dễ đọc, không phải lời khuyên điều trị. Mọi bài trong chuyên mục Sức khoẻ đều có ghi chú này ở cuối trang.
+
+**Sai thì sửa, và sửa công khai.** Phát hiện chi tiết chưa chính xác, viết thư tới [support@tinnhamnhi.com](mailto:support@tinnhamnhi.com). Bài được sửa sẽ cập nhật lại ngày ở đầu bài.
+
+**Không bán hàng, không nhận bài quảng cáo trá hình.** Trang này không bán sản phẩm nào và không viết bài PR đội lốt nội dung.
+
+**Về hình ảnh.** Một phần hình minh hoạ lấy từ nguồn cũ và không phải tấm nào cũng còn xác định được tác giả. Nếu bạn là chủ sở hữu một bức ảnh và muốn được ghi nguồn hoặc muốn gỡ xuống, viết thư cho chúng tôi.
+
 ## Liên hệ
 
 Góp ý, báo lỗi hoặc hợp tác, viết thư tới [support@tinnhamnhi.com](mailto:support@tinnhamnhi.com) hoặc xem trang [Liên hệ](/pages/lien-he).
