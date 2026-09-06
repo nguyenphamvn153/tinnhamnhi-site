@@ -118,12 +118,25 @@ h4 {
 	font-weight: 600;
 	line-height: 1.25;
 	letter-spacing: -0.012em;
-	text-wrap: balance;
 }
 
 p {
 	margin: 0;
-	text-wrap: pretty;
+}
+
+/* Cân dòng chỉ có lợi khi cột đủ rộng. Trên điện thoại nó khiến các dòng ngắn
+   lại và biên phải trông thủng lỗ chỗ. */
+@media (min-width: 48rem) {
+	h1,
+	h2,
+	h3,
+	h4 {
+		text-wrap: balance;
+	}
+
+	p {
+		text-wrap: pretty;
+	}
 }
 
 a {
