@@ -12,7 +12,7 @@ updatedAt: 2026-04-16T10:57:17.280Z
 
 **Cùng ngược dòng quá khứ tìm hiểu xem người Trung cổ đã "giải quyết nỗi buồn" như thế nào nhé.**
 
-Ở bất kỳ thời đại nào thì việc đi vệ sinh là nhu cầu thiết yếu của con người và chẳng ai có thể "chối từ". Vậy nên ngay từ thời xa xưa, con người đã biết phát minh, xây dựng những nhà vệ sinh hợp thời hợp thế để phục vụ cho nhu cầu thiết yếu đó.
+Ở bất kỳ thời đại nào thì việc [đi vệ sinh](/posts/5-hanh-dong-khi-di-ve-sinh-co-the-gay-hai-cho-suc-khoe) là nhu cầu thiết yếu của con người và chẳng ai có thể "chối từ". Vậy nên ngay từ thời xa xưa, con người đã biết phát minh, xây dựng những nhà vệ sinh hợp thời hợp thế để phục vụ cho nhu cầu thiết yếu đó.
 
 
 <figure>

@@ -22,7 +22,7 @@ Nghe rất quen. Và sai gần như toàn bộ.
 
 Đừng đợi mặc quần áo phẳng phiu rồi mới xịt. Thời điểm tốt nhất là ngay sau khi tắm xong buổi sáng.
 
-Lý do đơn giản hơn nhiều người tưởng: **da ẩm giữ hương lâu hơn da khô**. Tinh dầu trong nước hoa bám vào lớp ẩm trên bề mặt da và bay hơi chậm lại; da khô thì hương bay đi nhanh. Đây cũng là lý do những người có da dầu thường thấy nước hoa bám lâu hơn người da khô.
+Lý do đơn giản hơn nhiều người tưởng: **da ẩm giữ hương lâu hơn da khô**. Tinh dầu trong nước hoa bám vào lớp ẩm trên bề mặt da và bay hơi chậm lại; da khô thì hương bay đi nhanh. Đây cũng là lý do những người có [da dầu](/posts/phuong-phap-giup-ban-xac-dinh-loai-da-de-cham-soc-dung-cach) thường thấy nước hoa bám lâu hơn người da khô.
 
 Bạn có thể thường nghe rằng nước ấm "làm lỗ chân lông giãn nở để da hấp thụ hương thơm". Cách giải thích đó nghe hợp lý nhưng không chính xác — lỗ chân lông không có cơ để tự đóng mở, và nước hoa không thấm vào trong da. Nó chỉ nằm trên bề mặt và bay hơi dần. Điều thật sự có ích là **da đủ ẩm**, nên nếu da bạn khô, thoa một lớp dưỡng thể không mùi trước khi xịt sẽ hiệu quả hơn hẳn.
 

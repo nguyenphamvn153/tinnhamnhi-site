@@ -97,7 +97,7 @@ Mountain Climber không chỉ là bài tập cardio đốt mỡ hiệu quả mà
   - Bắt đầu ở tư thế Plank cao.
   - Luân phiên co đầu gối về phía ngực, như động tác chạy bộ tại chỗ.
   - **Biến thể:** Để tập trung vào cơ chéo bụng, hãy đưa đầu gối về phía khuỷu tay đối diện.
-- **Số hiệp và thời gian:** Thực hiện trong 20 giây, nghỉ 10 giây, lặp lại trong 6 phút (hoặc điều chỉnh theo thể lực).
+- **Số hiệp và thời gian:** Thực hiện trong 20 giây, nghỉ 10 giây, lặp lại trong 6 phút (hoặc điều chỉnh theo [thể lực](/posts/3-dau-hieu-moi-sang-thuc-day-chung-to-nam-gioi-co-the-luc-tot)).
 
 ### **Hanging Leg Raise (Treo Người Nâng Chân): Thử Thách Toàn Diện Cho Cơ Bụng**
 

@@ -36,6 +36,8 @@ export const nav = [
  * Chuyên mục có nội dung sức khoẻ: bài trong các mục này tự động kèm lời
  * miễn trừ y khoa ở cuối. Thêm "grooming" vào đây nếu muốn áp cả mục đó.
  */
+export const authorName = "Anh Nhảm";
+
 export const healthDisclaimerCategories = ["suc-khoe"];
 
 export const POSTS_PER_PAGE = 12;

@@ -16,7 +16,7 @@ Cạo lông nách là một quyết định cá nhân và không phải ai cũng
 
 **Lợi ích của việc cạo lông nách ở nam giới:**
 
-- Giảm mùi cơ thể: Cạo lông nách giúp giảm mùi cơ thể do mồ hôi và bụi bẩn gây ra.
+- Giảm [mùi cơ thể](/posts/lam-sao-de-cai-thien-tinh-trang-do-mo-hoi-vao-mua-he): Cạo lông nách giúp giảm mùi cơ thể do mồ hôi và bụi bẩn gây ra.
 - Tạo cảm giác thoáng và ít ngứa: Cạo lông nách giúp giảm cảm giác ngứa ngáy do lông nách gây ra.
 - Tạo vẻ gọn gàng: Cạo lông nách giúp khu vực dưới cánh tay trở nên gọn gàng hơn, tạo cảm giác tự tin hơn.
 - Tăng hiệu suất trong thể thao: Nhiều vận động viên cạo lông nách để tăng hiệu suất trong các môn thể thao như bơi lội và đi xe đạp.

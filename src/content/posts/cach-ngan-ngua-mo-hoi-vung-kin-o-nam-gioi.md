@@ -22,9 +22,9 @@ Tiết mồ hôi là một hiện tượng sinh lý bình thường ở cơ th�
 
 Một số nguyên nhân chính gây mồ hôi vùng kín ở nam giới, đó là:
 
-– Hyperhidrosis (Hội chứng tăng tiết mồ hôi): đây là tình trang cơ thể đổ mồ hôi quá nhiều do hệ thần kinh kích thích tuyến mồ hôi hoạt động quá mức. Hyperhidrosis xảy ra do tự phát hoặc do bệnh tiểu đường hay nhiễm trùng.
+– Hyperhidrosis (Hội chứng tăng tiết mồ hôi): đây là tình trang cơ thể [đổ mồ hôi](/posts/lam-sao-de-cai-thien-tinh-trang-do-mo-hoi-vao-mua-he) quá nhiều do hệ thần kinh kích thích tuyến mồ hôi hoạt động quá mức. Hyperhidrosis xảy ra do tự phát hoặc do bệnh tiểu đường hay nhiễm trùng.
 
-– Lối sống: Nếu bạn mặc quần lót hoặc quần bó sát thì tình trạng mồ hôi tiết ra ở vùng kín là điều hoàn toàn không thể tránh khỏi. Các chất liệu vải không có khả năng thấm hút cũng khiến tình trạng này trầm trọng hơn. Ngoài ra, việc sử dụng các chất kích thích như cà phê và bia rượu cũng có thể kích thích tuyến mồ hôi của bạn. Sử dụng các sản phẩm chăm sóc vùng kín có chứa những thành phần không “thân thiện” cũng là nguyên nhân dẫn đến mồ hôi đổ nhiều hơn.
+– Lối sống: Nếu bạn mặc [quần lót](/posts/cach-chon-quan-lot-phu-hop-dang-nguoi-cho-nam-gioi) hoặc quần bó sát thì tình trạng mồ hôi tiết ra ở vùng kín là điều hoàn toàn không thể tránh khỏi. Các chất liệu vải không có khả năng thấm hút cũng khiến tình trạng này trầm trọng hơn. Ngoài ra, việc sử dụng các chất kích thích như cà phê và bia rượu cũng có thể kích thích tuyến mồ hôi của bạn. Sử dụng các sản phẩm chăm sóc vùng kín có chứa những thành phần không “thân thiện” cũng là nguyên nhân dẫn đến mồ hôi đổ nhiều hơn.
 
 – Nguyên nhân khác: Đôi khi mồ hôi tiết nhiều còn có thể là triệu chứng của bệnh cường giáp (Hyperthyroidism), ung thư hạch không Hodgkin, bệnh bạch cầu và các bệnh ung thư khác. Dấu hiệu này không chỉ xảy ra ở vùng kín mà còn ở các bộ phận khác trên cơ thể. Những người có cân nặng vượt quá mức tiêu chuẩn cũng có thể là nguyên nhân gây mồ hôi, đặc biệt là những vùng có nhiều tuyến mồ hôi và nếp gấp như vùng bẹn.
 
@@ -35,7 +35,7 @@ Một số nguyên nhân chính gây mồ hôi vùng kín ở nam giới, đó l
   <figcaption>Ảnh: Diy13/Getty Images</figcaption>
 </figure>
 
-Mồ hôi vùng kín gây ra những khó chịu cho cơ thể như ngứa ngáy và khiến da bị kích ứng; Nhiễm trùng do vi khuẩn; Mụn nhọt và các vấn đề về da; Nhiễm nấm da; Mùi hôi khó chịu. Nếu không được điều trị kịp thời có thể dẫn đến những biến chứng nghiêm trọng hơn. Hơn nữa, tình trạng này còn khiến bạn thiếu tự tin và ảnh hưởng đến vẻ ngoài của bạn.
+Mồ hôi vùng kín gây ra những khó chịu cho cơ thể như ngứa ngáy và khiến da bị kích ứng; Nhiễm trùng do vi khuẩn; [Mụn](/posts/lam-the-nao-de-ngan-ngua-va-loai-bo-mun-lung-nhanh-chong) nhọt và các vấn đề về da; Nhiễm nấm da; Mùi hôi khó chịu. Nếu không được điều trị kịp thời có thể dẫn đến những biến chứng nghiêm trọng hơn. Hơn nữa, tình trạng này còn khiến bạn thiếu tự tin và ảnh hưởng đến vẻ ngoài của bạn.
 
 ## Những cách ngăn ngừa mồ hôi vùng kín
 

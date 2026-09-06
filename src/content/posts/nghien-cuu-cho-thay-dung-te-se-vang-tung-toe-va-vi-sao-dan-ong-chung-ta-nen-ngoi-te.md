@@ -10,7 +10,7 @@ publishedAt: 2019-07-24T01:20:16.000Z
 updatedAt: 2026-04-16T10:57:15.593Z
 ---
 
-Đàn ông tè đứng, đàn bà tè ngồi, bao nhiêu đời nay là như thế, có việc gì mà phải nghiên cứu với chả nghiên kiếc, vẽ chuyện. Vậy nhưng người ta vẫn nghiên cứu thật, lý do là xã hội phát triển, bây giờ chúng ta không còn tè gốc cây bãi cỏ nữa, mà đã có nhà vệ sinh, và việc đứng tè hay ngồi tè nó còn ảnh hưởng đến vệ sinh, môi trường của chính ngôi nhà chúng ta đang ở.
+Đàn ông tè đứng, đàn bà tè ngồi, bao nhiêu đời nay là như thế, có việc gì mà phải nghiên cứu với chả nghiên kiếc, vẽ chuyện. Vậy nhưng người ta vẫn nghiên cứu thật, lý do là xã hội phát triển, bây giờ chúng ta không còn tè gốc cây bãi cỏ nữa, mà đã có [nhà vệ sinh](/posts/cach-nguoi-trung-co-giai-quyet-noi-buon), và việc đứng tè hay ngồi tè nó còn ảnh hưởng đến vệ sinh, môi trường của chính ngôi nhà chúng ta đang ở.
 
 Nhóm nghiên cứu người Anh đã dùng nước pha với chất huỳnh quang, chiếu đèn tia cực tím để xem khi đứng tè thì nước sẽ văng ra sao. Họ dùng một cái vòi đường kính 6mm, dòng chảy 20ml/s trong vòng 10 giây, mô phỏng việc tè của một đàn ông trưởng thành với lượng nước tiểu là 200 ml. Dòng nước tè là dòng xoắn không đồng đều.
 

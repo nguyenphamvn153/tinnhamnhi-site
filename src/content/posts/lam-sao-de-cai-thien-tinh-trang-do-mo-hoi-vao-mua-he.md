@@ -32,7 +32,7 @@ Không chỉ dựa vào chất khử mùi, hãy thử dùng các sản phẩm c�
 
 ## Chăm sóc vùng nhạy cảm:
 
-Sử dụng các dung dịch vệ sinh phù hợp và mặc quần lót rộng rãi trong mùa nóng để vùng kín được thoáng mát, giảm nguy cơ ngứa ngáy và kích ứng.
+Sử dụng các dung dịch vệ sinh phù hợp và mặc [quần lót](/posts/cach-chon-quan-lot-phu-hop-dang-nguoi-cho-nam-gioi) rộng rãi trong mùa nóng để [vùng kín](/posts/ve-sinh-vung-kin-nam-gioi) được thoáng mát, giảm nguy cơ ngứa ngáy và kích ứng.
 
 ## Chọn vải phù hợp cho mùa hè:
 

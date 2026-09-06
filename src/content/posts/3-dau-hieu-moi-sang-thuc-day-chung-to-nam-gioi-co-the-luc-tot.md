@@ -21,7 +21,7 @@ Mà, đàn ông ở đời đều muốn biết thể lực của mình có tố
 
 Sau khi thức dậy vào buổi sáng, việc đầu tiên người đàn ông làm thường là đi tiểu. Trên thực tế, nam giới có thể quan sát thấy một số thay đổi trong nước tiểu của mình khi đi tiểu vào buổi sáng.
 
-Nói chung, nước tiểu của một người khỏe mạnh có màu vàng, không có bọt. Nếu bạn đi vệ sinh vào buổi sáng, bạn sẽ thấy rằng nước tiểu của bạn có màu đậm khác thường (như nước chè) và có bọt, điều này có thể là do bạn đang gặp vấn đề sức khỏe. Ngược lại, nếu nước tiểu bình thường, có màu vàng và không có bọt, điều đó có nghĩa là thận của bạn vẫn rất khỏe mạnh và cơ thể bạn đang ở trong tình trạng tốt.
+Nói chung, nước tiểu của một người khỏe mạnh có màu vàng, không có bọt. Nếu bạn [đi vệ sinh](/posts/5-hanh-dong-khi-di-ve-sinh-co-the-gay-hai-cho-suc-khoe) vào buổi sáng, bạn sẽ thấy rằng nước tiểu của bạn có màu đậm khác thường (như nước chè) và có bọt, điều này có thể là do bạn đang gặp vấn đề sức khỏe. Ngược lại, nếu nước tiểu bình thường, có màu vàng và không có bọt, điều đó có nghĩa là thận của bạn vẫn rất khỏe mạnh và cơ thể bạn đang ở trong tình trạng tốt.
 
 ### \2. Không có vấn đề về da
 
@@ -31,7 +31,7 @@ Nếu bạn thức dậy vào buổi sáng, khuôn mặt không được bóng v
 
 ### \3. Tinh thần sảng khoái
 
-Nói chung, khi thức dậy vào buổi sáng, mọi người thường sẽ tràn đầy năng lượng. Nhưng nếu bạn cảm thấy rất mệt mỏi, không có tí năng lượng nào cả và muốn quay trở lại giấc ngủ thì đó có thể là cơ quan trong cơ thể đang nhắc nhở bạn rằng bạn có vấn đề với sức khỏe của mình.
+Nói chung, khi thức dậy vào buổi sáng, mọi người thường sẽ tràn đầy năng lượng. Nhưng nếu bạn cảm thấy rất mệt mỏi, không có tí năng lượng nào cả và muốn quay trở lại [giấc ngủ](/posts/4-loi-ich-suc-khoe-cho-nam-gioi-tha-rong-khi-ngu) thì đó có thể là cơ quan trong cơ thể đang nhắc nhở bạn rằng bạn có vấn đề với sức khỏe của mình.
 
 <img src="/uploads/2021/12/2.webp" alt="" loading="lazy" decoding="async" />
 

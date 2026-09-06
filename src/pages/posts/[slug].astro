@@ -6,7 +6,7 @@ import HealthNotice from "../../components/HealthNotice.astro";
 import PostCard from "../../components/PostCard.astro";
 import Prose from "../../components/Prose.astro";
 import Base from "../../layouts/Base.astro";
-import { categoryBySlug, healthDisclaimerCategories, site } from "../../site.config";
+import { authorName, categoryBySlug, healthDisclaimerCategories, site } from "../../site.config";
 import { formatDate, getPublishedPosts, readingTime, tagSlug, type Post } from "../../utils/posts";
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -42,7 +42,7 @@ const jsonLd = [
 		image: featuredImage ? new URL(featuredImage, site.url).href : undefined,
 		datePublished: publishedAt?.toISOString(),
 		dateModified: (updatedAt ?? publishedAt)?.toISOString(),
-		author: { "@id": `${site.url}/#org` },
+		author: { "@type": "Person", name: authorName, url: `${site.url}/pages/gioi-thieu` },
 		publisher: { "@id": `${site.url}/#org` },
 		mainEntityOfPage: { "@type": "WebPage", "@id": url },
 		inLanguage: site.locale,

@@ -32,7 +32,7 @@ Mỗi chu kỳ này kéo dài khoảng 30 phút. Do đó, việc bạn thức d�
 
 Ban ngày, khi chúng ta cần sự tỉnh táo để học tập và làm việc, não bộ sẽ tiết ra nhiều hormone **Norepinephrine** (hay còn gọi là Noradrenaline). Hormone này giúp cơ thể duy trì sự cảnh giác để sinh tồn, nhưng nó lại có một tác dụng phụ là làm co mạch máu (constrict), dẫn đến việc "cậu nhỏ" ở trạng thái mềm.
 
-Ngược lại, khi chúng ta bước vào giấc ngủ sâu (giai đoạn ngủ REM), cấu trúc thân não (brainstem) sẽ kích hoạt cơ chế điều hòa làm giảm nồng độ Norepinephrine xuống. Việc này giúp cơ thể được nghỉ ngơi, mạch máu giãn ra (dilate), cho phép máu dễ dàng dồn về **thể hang (Corpora cavernosa)** và tạo ra hiện tượng cương cứng.
+Ngược lại, khi chúng ta bước vào [giấc ngủ](/posts/4-loi-ich-suc-khoe-cho-nam-gioi-tha-rong-khi-ngu) sâu (giai đoạn ngủ REM), cấu trúc thân não (brainstem) sẽ kích hoạt cơ chế điều hòa làm giảm nồng độ Norepinephrine xuống. Việc này giúp cơ thể được nghỉ ngơi, mạch máu giãn ra (dilate), cho phép máu dễ dàng dồn về **thể hang (Corpora cavernosa)** và tạo ra hiện tượng cương cứng.
 
 ### \2. Sự Đạt Đỉnh Của Nhịp Sinh Học Testosterone
 

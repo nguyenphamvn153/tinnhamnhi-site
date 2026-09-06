@@ -20,11 +20,14 @@ interface Props {
 }
 
 const { tag, posts } = Astro.props as Props;
+/* Thẻ chỉ có 1 bài tạo ra trang gần như trống — không để Google lập chỉ mục. */
+const thin = posts.length < 2;
 ---
 
 <Base
 	title={`#${tag.label}`}
 	description={`Tổng hợp ${posts.length} bài viết về ${tag.label} trên ${site.title} — chuyện sức khoẻ, grooming, lối sống và những thứ nhảm nhí tử tế dành cho đàn ông.`}
+	noindex={thin}
 	jsonLd={[{ "@type": "CollectionPage", name: `#${tag.label}` }]}
 >
 	<div class="wrap section">

@@ -19,7 +19,7 @@ Lưng có mật độ tuyến bã nhờn cao giống như ngực và mặt. Nế
 
 ## Các phương pháp trị mụn lưng
 
-- Tắm ngay sau khi tập luyện và mặc quần áo rộng rãi để giảm thiểu mồ hôi và bụi bẩn đọng lại trên da.
+- Tắm ngay sau khi [tập luyện](/posts/bi-quyet-so-huu-co-bung-cheo-hoan-hao-7-bai-tap-hieu-qua) và mặc quần áo rộng rãi để giảm thiểu mồ hôi và bụi bẩn đọng lại trên da.
 - Không nên nặn mụn lưng, bởi vì nó sẽ làm tình trạng trở nên nặng hơn và có thể để lại sẹo mụn trứng cá.
 - Sử dụng các loại sữa rửa mặt dịu nhẹ để hạn chế mụn lưng, tránh các loại xà phòng mạnh và chất làm se da, không chà xát lên mụn để tránh tình trạng viêm nhiễm.
 - Sử dụng sữa rửa mặt chứa benzoyl peroxide để giết chết vi khuẩn và giúp làm giảm các tổn thương.

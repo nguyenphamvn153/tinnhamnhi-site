@@ -99,7 +99,7 @@ Nếu tủ đồ đã có đủ bốn loại trên và bạn muốn thử thứ 
 
 ## Vài mẹo cho lần mua sắm tới
 
-**Chất liệu quan trọng hơn kiểu dáng.** Cotton cho nhu cầu hằng ngày vì thấm hút tốt. Modal hoặc microfiber cho cảm giác mềm mát. Vải dệt công nghệ pha spandex hoặc nylon cho những buổi tập đổ mồ hôi nhiều.
+**Chất liệu quan trọng hơn kiểu dáng.** Cotton cho nhu cầu hằng ngày vì thấm hút tốt. Modal hoặc microfiber cho cảm giác mềm mát. Vải dệt công nghệ pha spandex hoặc nylon cho những buổi tập [đổ mồ hôi](/posts/lam-sao-de-cai-thien-tinh-trang-do-mo-hoi-vao-mua-he) nhiều.
 
 **Đồ lót có hạn sử dụng.** Đừng mặc một chiếc quần lót tới khi nó thủng hoặc giãn thun. Khuyến nghị phổ biến là thay sau **6 đến 12 tháng** sử dụng thường xuyên. Cứ định kỳ dọn tủ một lần.
 

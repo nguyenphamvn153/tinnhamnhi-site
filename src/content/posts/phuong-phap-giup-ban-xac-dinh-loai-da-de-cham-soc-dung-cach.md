@@ -34,7 +34,7 @@ Rửa mặt sạch bằng sữa rửa mặt dịu nhẹ, lau khô bằng khăn b
 
 ### 2.1. CHĂM SÓC TUÝP DA DẦU
 
-Da dầu có xu hướng trông sáng bóng, lỗ chân lông to và dễ bị mụn đầu đen, hoặc sưng tấy do mụn. Nam giới có xu hướng bị da dầu nhiều hơn.
+Da dầu có xu hướng trông sáng bóng, lỗ chân lông to và dễ bị [mụn](/posts/lam-the-nao-de-ngan-ngua-va-loai-bo-mun-lung-nhanh-chong) đầu đen, hoặc sưng tấy do mụn. Nam giới có xu hướng bị da dầu nhiều hơn.
 
 **Điều lưu ý khi chăm sóc da dầu:**
 

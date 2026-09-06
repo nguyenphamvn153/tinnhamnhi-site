@@ -120,7 +120,7 @@ Xác định là người đi sau và đứng trên vai người khổng lồ, I
 
 Kèm theo tên gọi khác biệt với tư duy người Việt, ICP còn tập trung bài bản vào chiến lược sản xuất toàn diện từ sữa tắm, xà bông, sữa rửa mặt cho đến xây dựng hình ảnh thương hiệu theo hướng văn hóa hào hiệp gắn liền với slogan.
 
-Theo số liệu của Nielsen, có thời điểm X-Men dẫn đầu ngành hàng dầu gội và sữa tắm với mức 40-50% thị phần, ngành hàng lăn khử mùi đứng sau Nivea với mức 23%.
+Theo số liệu của Nielsen, có thời điểm X-Men dẫn đầu ngành hàng dầu gội và sữa tắm với mức 40-50% thị phần, ngành hàng lăn [khử mùi](/posts/lam-sao-de-cai-thien-tinh-trang-do-mo-hoi-vao-mua-he) đứng sau Nivea với mức 23%.
 
 Đến nay ICP trải qua quá trình phát triển 3 giai đoạn gồm:
 

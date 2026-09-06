@@ -14,7 +14,7 @@ updatedAt: 2026-09-06T06:00:00.000Z
 
 Hãy thành thật với nhau: bao nhiêu người nghĩ rằng việc cạo râu kết thúc ngay lúc đặt dao cạo xuống bồn rửa mặt?
 
-Kịch bản buổi sáng của đa số nam giới đều giống nhau — lướt dao cạo vội vã, vã chút nước lạnh lên mặt, quệt bừa chiếc khăn tắm thô ráp rồi lao ra đường. Và đó chính là gốc rễ của những thứ khó chịu quen thuộc: mẩn đỏ, rát da, mụn viêm, râu mọc ngược.
+Kịch bản buổi sáng của đa số nam giới đều giống nhau — lướt dao cạo vội vã, vã chút nước lạnh lên mặt, quệt bừa chiếc khăn tắm thô ráp rồi lao ra đường. Và đó chính là gốc rễ của những thứ khó chịu quen thuộc: mẩn đỏ, rát da, [mụn](/posts/lam-the-nao-de-ngan-ngua-va-loai-bo-mun-lung-nhanh-chong) viêm, râu mọc ngược.
 
 Cạo râu không đơn thuần là cắt đứt sợi lông. Lưỡi dao đồng thời bào đi lớp tế bào sừng bảo vệ trên cùng, để lại một bề mặt mỏng manh và rất dễ kích ứng. Bước chăm sóc sau cạo tồn tại là để xử lý đúng chỗ đó.
 

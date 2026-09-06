@@ -21,7 +21,7 @@ Nhưng nhắc tới chuyện cầm dao cạo lướt qua vùng nhạy cảm, nhi
 
 Đa số nghe "manscaping" là nghĩ ngay tới phần dưới thắt lưng. Thực ra nó rộng hơn: cắt tỉa, cạo hoặc triệt lông trên toàn bộ cơ thể nam giới — lông ngực, nách, lưng, và cả khu vực nhạy cảm.
 
-Mục tiêu không phải biến bạn thành bức tượng nhẵn thín, mà là **kiểm soát độ dài** sao cho gọn gàng và dễ vệ sinh. Nó cũng bao gồm cả bước chăm sóc da sau khi cạo — thứ mà đàn ông thường bỏ qua còn phụ nữ thì làm từ lâu.
+Mục tiêu không phải biến bạn thành bức tượng nhẵn thín, mà là **kiểm soát độ dài** sao cho gọn gàng và dễ vệ sinh. Nó cũng bao gồm cả bước [chăm sóc da](/posts/phuong-phap-giup-ban-xac-dinh-loai-da-de-cham-soc-dung-cach) sau khi cạo — thứ mà đàn ông thường bỏ qua còn phụ nữ thì làm từ lâu.
 
 ## Chuyện này không mới
 
@@ -42,7 +42,7 @@ Nếu bạn nghĩ cạo lông cơ thể là trào lưu mới nổi thì lịch s
   <figcaption>Tỉa ngắn đã giải quyết phần lớn vấn đề, không nhất thiết phải cạo sạch.</figcaption>
 </figure>
 
-**Thoải mái hơn.** Lông quá rậm gây cộm và ngứa khi mặc quần lót hoặc khi đi bộ nhiều. Tỉa gọn giải quyết phần lớn chuyện này.
+**Thoải mái hơn.** Lông quá rậm gây cộm và ngứa khi mặc [quần lót](/posts/cach-chon-quan-lot-phu-hop-dang-nguoi-cho-nam-gioi) hoặc khi đi bộ nhiều. Tỉa gọn giải quyết phần lớn chuyện này.
 
 **Đỡ mùi hơn.** Lông giữ mồ hôi và tạo môi trường cho vi khuẩn. Tỉa ngắn giúp vùng nách và vùng kín khô thoáng hơn, mùi cơ thể giảm rõ sau một ngày dài hoặc sau buổi tập.
 
@@ -70,7 +70,7 @@ Nếu thấy căng thẳng khi cầm dao ở vùng hiểm, hoàn toàn có thể
 
 ### Bước 3 — Làm dịu da sau đó
 
-Vùng da vừa cạo đang ở trạng thái nhạy cảm và dễ viêm, y như da mặt sau khi cạo râu.
+Vùng da vừa cạo đang ở trạng thái nhạy cảm và dễ viêm, y như da mặt [sau khi cạo râu](/posts/cham-soc-da-sau-cao-rau).
 
 Thoa một lớp mỏng kem dưỡng thể chứa lô hội hoặc thành phần làm dịu. Tránh sản phẩm nhiều cồn hoặc hương liệu nồng — chúng sẽ khiến vùng da này xót và rát.
 
