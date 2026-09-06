@@ -27,8 +27,8 @@ Lý do đơn giản hơn nhiều người tưởng: **da ẩm giữ hương lâu
 Bạn có thể thường nghe rằng nước ấm "làm lỗ chân lông giãn nở để da hấp thụ hương thơm". Cách giải thích đó nghe hợp lý nhưng không chính xác — lỗ chân lông không có cơ để tự đóng mở, và nước hoa không thấm vào trong da. Nó chỉ nằm trên bề mặt và bay hơi dần. Điều thật sự có ích là **da đủ ẩm**, nên nếu da bạn khô, thoa một lớp dưỡng thể không mùi trước khi xịt sẽ hiệu quả hơn hẳn.
 
 <figure>
-  <img src="/uploads/2019/06/xit-nuoc-hoa-elle-men-05.webp" alt="Chai nước hoa nam đặt trên mặt bàn" />
-  <figcaption>Ảnh: Best Products</figcaption>
+  <img src="/uploads/2026/09/xit-nuoc-hoa-vest.webp" alt="Người đàn ông mặc vest xịt nước hoa, ảnh đen trắng" />
+  <figcaption>Giữ khoảng cách để tia xịt tán thành màn sương, thay vì đọng thành vũng.</figcaption>
 </figure>
 
 ## 2. Giữ khoảng cách 15cm
@@ -55,8 +55,8 @@ Bỏ thói quen xịt hai bên cổ. Đó là vùng da nhạy cảm, lại hay c
 - **Sau đầu gối, nếu mặc quần short** — nhiệt và hương đều bay từ dưới lên, mỗi bước chân là một lần toả
 
 <figure>
-  <img src="/uploads/2019/06/xit-nuoc-hoa-elle-men-4.webp" alt="Người đàn ông cầm chai nước hoa trước gương" />
-  <figcaption>Ảnh: Fashionbeans</figcaption>
+  <img src="/uploads/2026/09/xit-nuoc-hoa-cac-chai.webp" alt="Nhiều chai nước hoa nam xếp cạnh nhau trên nền sáng" />
+  <figcaption>Vị trí xịt quan trọng không kém việc chọn chai nào.</figcaption>
 </figure>
 
 ## 5. Ba đến bốn nhát là đủ

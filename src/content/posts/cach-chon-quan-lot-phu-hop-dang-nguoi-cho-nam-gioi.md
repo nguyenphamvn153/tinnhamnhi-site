@@ -7,8 +7,8 @@ tags:
   - "thời trang"
   - "đồ lót"
   - "nam giới"
-featuredImage: "/uploads/2022/05/4.webp"
-featuredImageAlt: "Người đàn ông mặc quần lót trunks đứng cạnh cửa sổ"
+featuredImage: "/uploads/2026/09/quan-lot-hero.webp"
+featuredImageAlt: "Người đàn ông mặc quần lót ngồi bên khung cửa sổ đầy nắng"
 publishedAt: 2022-05-03T09:06:44.000Z
 updatedAt: 2026-09-06T05:00:00.000Z
 ---
@@ -30,7 +30,7 @@ Nếu bạn nghĩ "mặc gì bên trong chẳng được, có ai thấy đâu" t
 **3. Sự tự tin.** Cái này khó đo đếm, nhưng ai từng mặc một chiếc quần lót chật, ẩm hoặc giãn thun suốt tám tiếng đi làm đều hiểu nó ảnh hưởng tới tâm trạng thế nào.
 
 <figure>
-  <img src="/uploads/2022/05/1-1.webp" alt="Cận cảnh phần thân dưới của người đàn ông mặc quần lót tối màu" />
+  <img src="/uploads/2026/09/quan-lot-van-dong.webp" alt="Người đàn ông mặc quần lót trunks trong tư thế vận động" />
   <figcaption>Lớp đồ lót vừa vặn quyết định phần lớn cảm giác thoải mái của cả ngày.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Nếu bạn nghĩ "mặc gì bên trong chẳng được, có ai thấy đâu" t
 Kiểu sịp chữ Y truyền thống, ôm sát vùng hông và đũng, để lộ hoàn toàn phần đùi. Khả năng nâng đỡ tối đa, cảm giác gọn gàng nhất trong bốn kiểu.
 
 <figure>
-  <img src="/uploads/2022/05/sexy-male-model-black-underwear.webp" alt="Người đàn ông mặc quần lót briefs tam giác màu đen" />
+  <img src="/uploads/2026/09/quan-lot-briefs.webp" alt="Người đàn ông mặc quần lót briefs tam giác màu đen" />
   <figcaption>Briefs khoét cao ở đùi, tạo hiệu ứng chân dài hơn.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Kiểu sịp chữ Y truyền thống, ôm sát vùng hông và đũng, để l�
 Đứa con lai giữa briefs và boxer briefs. Ống quần cắt ngắn ngay dưới đáy, tạo phom hộp vuông vức, bám sát cơ thể.
 
 <figure>
-  <img src="/uploads/2022/05/2.webp" alt="Người đàn ông mặc quần lót trunks đen ống ngắn" />
+  <img src="/uploads/2026/09/quan-lot-trunks.webp" alt="Người đàn ông mặc quần lót trunks ống ngắn màu đen" />
   <figcaption>Trunks có phom hộp, ống cắt ngắn ngay dưới đáy quần.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Kiểu sịp chữ Y truyền thống, ôm sát vùng hông và đũng, để l�
 Lấy khả năng nâng đỡ của briefs ghép vào chiều dài ống của boxer, thường kéo xuống giữa đùi.
 
 <figure>
-  <img src="/uploads/2022/05/3.webp" alt="Người đàn ông mặc quần lót boxer briefs ống dài tới giữa đùi" />
+  <img src="/uploads/2026/09/quan-lot-boxer-briefs.webp" alt="Người đàn ông mặc quần lót boxer briefs ống dài tới giữa đùi" />
   <figcaption>Boxer briefs: ống dài vừa đủ để chống cọ xát hai bên đùi.</figcaption>
 </figure>
 
