@@ -1,63 +1,106 @@
 ---
-title: "Cách chọn quần lót phù hợp dáng người cho nam giới"
-excerpt: "Từ chiếc khố tới chiếc quần sịp đầu tiên bán ra năm 1935. Lịch sử ngắn của đồ lót nam và cách chọn kiểu hợp với dáng người bạn."
+title: "Cẩm nang \"đồ nhỏ\": cách chọn quần lót chuẩn dáng cho đàn ông hiện đại"
+metaTitle: "Cách chọn quần lót nam theo dáng người"
+excerpt: "Năm dáng người, bốn kiểu quần lót cơ bản, và cách bắt cặp cho đúng. Kèm hai kiểu phá cách và mẹo chọn chất liệu ít người để ý."
 category: "loi-song"
 tags:
   - "thời trang"
+  - "đồ lót"
   - "nam giới"
 featuredImage: "/uploads/2022/05/4.webp"
+featuredImageAlt: "Người đàn ông mặc quần lót trunks đứng cạnh cửa sổ"
 publishedAt: 2022-05-03T09:06:44.000Z
-updatedAt: 2026-04-16T10:57:20.216Z
+updatedAt: 2026-09-06T05:00:00.000Z
 ---
 
-Quần lót đã xuất hiện từ rất lâu, và khố là hình dáng đầu tiên của item này. Theo thời gian, khố đã phát triển, trở thành “đồ lót” nhằm giúp bảo vệ con người tốt hơn. Mãi đến những năm 1930, đồ lót nam hiện đại mới ra đời. Năm 1935, Coopers Inc. đã bán những chiếc quần sịp đầu tiên trên thế giới tại Chicago. Và đến những năm 1970, đồ lót được lăng xê trở thành item cực thời trang.
+Có một nghịch lý thế này: đàn ông sẵn sàng chi hàng triệu đồng cho một đôi sneaker sành điệu, một chiếc áo khoác da phong trần hay một chiếc đồng hồ lịch lãm — rồi vơ đại một lốc ba chiếc quần lót giảm giá trong siêu thị.
 
-Chúng ta mặc quần lót hàng ngày. Tuy nhiên, ít ai nghĩ rằng nam giới nên chọn quần lót theo dáng người để tạo nên sự thoải mái tối ưu. Hãy cùng tìm hiểu thêm về cách chọn item này theo từng dáng người.
+Từ chiếc khố thô sơ của tổ tiên cho tới chiếc quần sịp hiện đại đầu tiên do Coopers Inc. tung ra thị trường năm 1935, đồ lót nam đã đi một chặng đường dài. Ngày nay nó không chỉ là mảnh vải che chắn: đó là lớp giáp bảo vệ đầu tiên, là thứ quyết định bạn thoải mái hay khó chịu suốt cả ngày.
 
-## **Tại sao nên chọn quần lót phù hợp với dáng người?**
+Cơ thể nam giới thường được chia thành năm dáng cơ bản — chữ nhật, tam giác, tam giác ngược, hình thang và oval — và mỗi dáng lại hợp với một kiểu đồ lót riêng.
 
-Quần lót là một item quan trọng, cho dù bạn đang ngồi ở bàn làm việc, đi bộ hay nằm dài ở nhà. Đồ lót chất lượng giúp bạn: Hút chất lỏng cơ thể hoặc mồ hôi tiết ra từ đáy quần, giúp bạn sạch sẽ nhất có thể; giúp bộ phận sinh dục thoải mái và giảm ma sát với quần áo bên ngoài; đảm bảo nhiệt độ nơi vùng kín,…
+## Tại sao phải động não vì một chiếc quần lót?
 
-Một trong những lý do quan trọng là kiểu dáng quần lót giúp bạn tự tin hơn, đồng thời giúp bạn thoải mái suốt cả ngày. Nhìn chúng, cơ thể chúng ta bao gồm 5 kiểu chính là hình chữ nhật, hình tam giác, hình tam giác ngược, hình thang và hình oval. Đồng thời, ta có 4 kiểu quần lót chính: Quần briefs, quần trunks, quần boxer-briefs, quần boxer. Hãy cùng chọn quần theo dáng người.
+Nếu bạn nghĩ "mặc gì bên trong chẳng được, có ai thấy đâu" thì bạn đang tự làm khó chính mình. Một chiếc quần lót vừa vặn mang lại ba thứ:
 
-<img src="/uploads/2022/05/1-1.webp" alt="" loading="lazy" decoding="async" />
+**1. Vệ sinh.** Hút ẩm và thấm mồ hôi, giữ vùng nhạy cảm khô thoáng, hạn chế môi trường cho vi khuẩn và nấm phát triển.
 
-## Chọn quần lót theo dáng người
+**2. Nâng đỡ và chống ma sát.** Cố định khi vận động mạnh, đồng thời tạo lớp đệm giữa da và lớp vải thô ráp của quần jeans hay quần tây bên ngoài.
 
-### **QUẦN BRIEFS: PHÙ HỢP VỚI DÁNG NGƯỜI CHỮ NHẬT, HÌNH THANG, TAM GIÁC**
+**3. Sự tự tin.** Cái này khó đo đếm, nhưng ai từng mặc một chiếc quần lót chật, ẩm hoặc giãn thun suốt tám tiếng đi làm đều hiểu nó ảnh hưởng tới tâm trạng thế nào.
 
-Quần briefs là loại quần lót cơ bản và đẹp đẽ mà bất kỳ quý ông nào cũng có trong [tủ đồ tối giản](https://www.elleman.vn/phong-cach/phong-cach-quan-ao-ca-nhan-elleman) của mình. Cách quần sịp ôm sát vùng đũng quần tạo nên hình chữ Y phía trước tạo nên form dáng gọn ghẽ, đồng thời hỗ trợ tốt nhất cho bộ phận sinh dục của bạn. Loại quần này cũng có thể làm đẹp, giúp bạn thêm tự hào với “gói khủng” trời ban của mình.
+<figure>
+  <img src="/uploads/2022/05/1-1.webp" alt="Cận cảnh phần thân dưới của người đàn ông mặc quần lót tối màu" />
+  <figcaption>Lớp đồ lót vừa vặn quyết định phần lớn cảm giác thoải mái của cả ngày.</figcaption>
+</figure>
 
-Một trong những khó khăn khi mặc quần briefs chính là nó khá kén dáng người. Nếu bạn có một thân hình đẹp, một chiếc quần sịp cho phép bạn khoe toàn bộ từ cơ thể đến bắp đùi. Ngay cả những người gầy gặp khó khăn trong việc tăng cơ cũng có thể mặc loại quần này.
+## Bốn kiểu kinh điển và cách bắt cặp với dáng người
 
-Nhưng đối với những người đàn ông to lớn hơn hoặc những người hông rộng, loại quần này khiến bạn trông nặng nề hơn.
+### 1. Briefs — sịp tam giác
 
-<img src="/uploads/2022/05/sexy-male-model-black-underwear.webp" alt="" loading="lazy" decoding="async" />
+Kiểu sịp chữ Y truyền thống, ôm sát vùng hông và đũng, để lộ hoàn toàn phần đùi. Khả năng nâng đỡ tối đa, cảm giác gọn gàng nhất trong bốn kiểu.
 
-### **QUẦN TRUNKS: PHÙ HỢP VỚI DÁNG NGƯỜI HÌNH CHỮ NHẬT, HÌNH THANG, HÌNH TAM GIÁC, HÌNH TAM GIÁC NGƯỢC**
+<figure>
+  <img src="/uploads/2022/05/sexy-male-model-black-underwear.webp" alt="Người đàn ông mặc quần lót briefs tam giác màu đen" />
+  <figcaption>Briefs khoét cao ở đùi, tạo hiệu ứng chân dài hơn.</figcaption>
+</figure>
 
-Quần trunks rất dễ bị nhầm lẫn với kiểu quần boxer briefs, nhưng trunk có thiết kế ống quần sát đáy, ngắn hơn Boxer Brief và dài hơn Briefs.
+**Hợp với:** dáng chữ nhật, hình thang, tam giác.
 
-Trunks cũng giống briefs, khi mặc vào sẽ tạo nên sự vừa vặn. Với điều kiện chất lượng tốt, loại quần này không bị mất tính đàn hồi trong thời gian dài. Nhưng vì quần nhỏ hơn và vừa với cơ thể hơn, quần trunks sẽ không phù hợp với những chàng trai to lớn. Với những nam giới có phần hông rộng, quần trunks vẫn có thể mặc được và tạo cảm giác thoải mái.
+**Điểm cộng:** người có chiều cao khiêm tốn hoặc đùi thon rất nên thử. Thiết kế khoét cao ở đùi tạo hiệu ứng thị giác giúp chân trông dài hơn.
 
-<img src="/uploads/2022/05/2.webp" alt="" loading="lazy" decoding="async" />
+**Nên tránh nếu:** khung xương chậu to, hông rộng hoặc thân hình nặng nề. Briefs sẽ làm lộ phần mỡ thừa quanh hông thay vì che đi.
 
-### **QUẦN BOXER BRIEFS: PHÙ HỢP VỚI MỌI DÁNG NGƯỜI**
+### 2. Trunks — sịp đùi ngắn
 
-Một chiếc boxer briefs là sự kết hợp hoàn hảo giữa độ vừa vặn của quần briefs nam, bên cạnh đó nó có hình dáng như một quần đùi khiến bạn che đi những khuyết điểm của mình. Với loại quần này, bộ phận sinh dục của bạn cũng cảm thấy rất thoải mái và được hỗ trợ tốt.
+Đứa con lai giữa briefs và boxer briefs. Ống quần cắt ngắn ngay dưới đáy, tạo phom hộp vuông vức, bám sát cơ thể.
 
-Nhìn chung, không có gì có vẻ quá chật, quá lỏng hoặc lộ ra ngoài. Đó là lý do tại sao nó là loại đồ lót linh hoạt nhất mà bất kỳ dáng người nào cũng có thể sử dụng.
+<figure>
+  <img src="/uploads/2022/05/2.webp" alt="Người đàn ông mặc quần lót trunks đen ống ngắn" />
+  <figcaption>Trunks có phom hộp, ống cắt ngắn ngay dưới đáy quần.</figcaption>
+</figure>
 
-<img src="/uploads/2022/05/3.webp" alt="" loading="lazy" decoding="async" />
+**Hợp với:** dáng chữ nhật, hình thang, tam giác, tam giác ngược.
 
-### **QUẦN BOXER: DÁNG NGƯỜI OVAL, HÌNH THANG, HÌNH TAM GIÁC NGƯỢC**
+**Điểm cộng:** phô được hình thể, đặc biệt hợp với người tập gym đều. Nếu chọn chất liệu tốt thì phom giữ được lâu, không nhão sau vài tháng.
 
-Boxer được thiết kế như một chiếc quần đùi nhỏ có chức năng nâng đỡ, bảo vệ và hỗ trợ bộ phận sinh dục. Được biết, loại quần này lấy thiết kế từ những chiếc quần đùi rộng rãi của các võ sĩ chuyên nghiệp. Chính vì thế, chúng rộng rãi và thoải mái. Với các chàng trai có phần hông rộng hoặc chân to, đây là loại quần nhằm che đi khuyết điểm và giúp cơ thể bạn gọn gàng, dễ di chuyển hơn.
+**Nên tránh nếu:** thân hình quá to hoặc đùi thô — thiết kế bó sát sẽ gây cảm giác chật chội.
 
-### **MỘT SỐ KIỂU QUẦN LÓT NAM KHÁC**
+### 3. Boxer briefs — sịp đùi
 
-Dĩ nhiên, đây chỉ là 4 dạng quần lót cơ bản. Nếu muốn, bạn hoàn toàn có thể thử nghiệm những loại quần lót khác độc đáo hơn.
+Lấy khả năng nâng đỡ của briefs ghép vào chiều dài ống của boxer, thường kéo xuống giữa đùi.
 
-– Quần lót jockstrap: Đây là loại quần không phải ai cũng tự tin mặc. Nó bao gồm một dây lưng co giãn với một túi nâng đỡ phía trước và hai sợi dây đai ôm vòng hai bên ở phía sau. Loại quần này khiến bạn trở nên vô cùng sexy.
+<figure>
+  <img src="/uploads/2022/05/3.webp" alt="Người đàn ông mặc quần lót boxer briefs ống dài tới giữa đùi" />
+  <figcaption>Boxer briefs: ống dài vừa đủ để chống cọ xát hai bên đùi.</figcaption>
+</figure>
 
-– Quần thong: Thongs là một kiểu quần lót nam phù hợp với đàn ông cơ bắp, vạm vỡ, bởi loại quần này sẽ phô diễn toàn bộ cơ thể của bạn. Nó tựa như quần lọt khe, phô diễn vòng mông của bạn.
+**Hợp với:** mọi dáng người. Cao, gầy, béo, thấp đều mặc được.
+
+**Điểm cộng:** đa năng nhất. Ống dài vừa đủ để ngăn tình trạng cọ xát hai bên đùi gây rát da — nỗi ám ảnh của người hay chơi thể thao hoặc có đùi to. Mọi thứ nằm đúng chỗ, không quá chật, không quá lỏng, và không hằn vết qua lớp quần ngoài.
+
+### 4. Boxer — quần đùi rộng
+
+Lấy cảm hứng từ trang phục thi đấu của võ sĩ quyền anh: ống rộng, thun ở lưng quần, không bó sát.
+
+**Hợp với:** dáng oval, hình thang, tam giác ngược.
+
+**Điểm cộng:** thoáng nhất trong bốn kiểu. Với người có bụng hoặc hông to, boxer che khuyết điểm tốt và cực kỳ dễ chịu khi ngủ hoặc mặc ở nhà.
+
+**Nên tránh nếu:** bạn mặc quần âu ôm hoặc skinny jeans. Boxer sẽ co cụm lại, đùn vải và tạo nếp nhăn ở đũng quần.
+
+## Hai kiểu cho người thích phá cách
+
+Nếu tủ đồ đã có đủ bốn loại trên và bạn muốn thử thứ khác cho dịp đặc biệt:
+
+**Jockstrap — sịp dây nâng đỡ.** Ban đầu thiết kế cho vận động viên đạp xe và các môn cường độ cao. Có túi bảo vệ phía trước, hai dây đai đan chéo phía sau và để hở phần mông. Rất thoáng, và là một tuyên ngôn khá rõ ràng về sự tự tin.
+
+**Thong — lọt khe nam.** Nếu bạn tự tin vào vòng ba, thong loại bỏ hoàn toàn đường hằn nội y — hữu ích khi mặc quần tây chất liệu mỏng.
+
+## Vài mẹo cho lần mua sắm tới
+
+**Chất liệu quan trọng hơn kiểu dáng.** Cotton cho nhu cầu hằng ngày vì thấm hút tốt. Modal hoặc microfiber cho cảm giác mềm mát. Vải dệt công nghệ pha spandex hoặc nylon cho những buổi tập đổ mồ hôi nhiều.
+
+**Đồ lót có hạn sử dụng.** Đừng mặc một chiếc quần lót tới khi nó thủng hoặc giãn thun. Khuyến nghị phổ biến là thay sau **6 đến 12 tháng** sử dụng thường xuyên. Cứ định kỳ dọn tủ một lần.
+
+Chọn đúng đồ lót không phải chuyện làm dáng. Đó là cách đơn giản nhất để tôn trọng cơ thể mình — thứ bạn phải sống cùng cả ngày, mỗi ngày.
