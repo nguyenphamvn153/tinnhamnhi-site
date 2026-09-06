@@ -26,7 +26,7 @@ Một nghiên cứu vào năm 2018 bao gồm 96 cặp vợ chồng khác giới 
 
 Sau đó, những người phụ nữ ngửi thấy áo sơ mi của bạn tình rồi hoàn thành một số bài kiểm tra để xác định kết quả. Điều này bao gồm một cuộc phỏng vấn xin việc căng thẳng và mẫu nước bọt để đo cortisol (được xem là hormon chống stress). Kết quả, người ta phát hiện ra rằng xạ hương tự nhiên của cơ thể có điều gì đó hấp dẫn và khiến người khác phái an lòng hơn.
 
-<img src="/uploads/2022/05/1.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2022/05/1.webp" alt="Người đàn ông giơ hai tay để lộ vùng nách" loading="lazy" decoding="async" />
 
 ### **GIẢM MA SÁT**
 

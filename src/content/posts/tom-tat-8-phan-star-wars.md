@@ -96,7 +96,7 @@ Luke tha chết cho Darth Vader và tự hào tuyên bố lòng trung thành c�
   <figcaption>Darth Vader chuộc lỗi và chết trong tay của Luke</figcaption>
 </figure>
 
-<img src="/uploads/2019/12/3569537_large.gif" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2019/12/3569537_large.gif" alt="Ảnh động một cảnh trong phim Star Wars" loading="lazy" decoding="async" />
 
 Phù, chúng ta vừa vượt qua chặng hành trình 42 năm của 6 phần Star Wars, bây giờ hãy tiếp tục với phần 7: The Force Awakens (2015) và phần 8: The Last Jedi (2017) nhé.
 

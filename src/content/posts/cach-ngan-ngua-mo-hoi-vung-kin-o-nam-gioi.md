@@ -18,7 +18,7 @@ Có những lưu ý quan trọng trong việc lựa chọn sản phẩm hỗ tr�
 
 Tiết mồ hôi là một hiện tượng sinh lý bình thường ở cơ thể con người. Ở những khu vực như nách, vùng kín có rất nhiều tuyến mồ hôi, lại thường bí bách dẫn đến có mùi khó chịu do nhiều lớp quần áo nên không dễ dàng để có thể thường xuyên làm sạch.
 
-<img src="/uploads/2022/05/1-1.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2022/05/1-1.webp" alt="Người đàn ông mặc quần lót thể thao trên nền tối" loading="lazy" decoding="async" />
 
 Một số nguyên nhân chính gây mồ hôi vùng kín ở nam giới, đó là:
 
@@ -49,7 +49,7 @@ Bột talc là một khoáng chất ở dạng bột mịn, được sử dụng
 
 #### Cẩn thận với những loại sản phẩm có menthol
 
-<img src="/uploads/2022/05/1-3.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2022/05/1-3.webp" alt="Người đàn ông quấn khăn tắm quanh hông" loading="lazy" decoding="async" />
 
 Menthol (tinh dầu bạc hà) là một hợp chất hóa học được làm từ dầu bạc hà và axit salicylic, cho cảm giác mát lạnh lên vùng sử dụng. Thông thường menthol sẽ được ghi trên bảng thành phần của sản phẩm. Tuy menthol mang lại cảm giác thoáng mát nhưng một số người sẽ gặp vấn đề với nó, nếu:
 
@@ -80,7 +80,7 @@ Có thể mồ hôi vùng kín sẽ gây ra cho bạn nhiều bất tiện trong
 
 ### \2. MỘT SỐ CÁCH KHÁC ĐỂ GIẢM THIỂU MỒ HÔI VÙNG KÍN CHO NAM GIỚI
 
-<img src="/uploads/2022/05/1-5.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2022/05/1-5.webp" alt="Người đàn ông thay đồ trong phòng ngủ" loading="lazy" decoding="async" />
 
 Ngoài việc lựa chọn sản phẩm phù hợp thì những phương pháp dưới đây sẽ giúp vùng kín của bạn thông thoáng và sạch sẽ hơn.
 

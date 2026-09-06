@@ -60,7 +60,7 @@ Và có lẽ đọc cho tới đây cái anh em đặc câu hỏi nhiều nhất
 
 Thông tin mình đọc được thì những loại khẩu trang nào có ghi rõ cụm từ NIOSH / EN / ISI và có rõ ràng sự cấp phép của các cơ quan y tế lớn thì mới có khả năng ngăn chặn được các hạt bụi nano. Các loại khẩu trang này đều có một chiếc chụp mũ khá cứng cáp, điều chỉnh được cho áp sát vào mặt người và có 2 sợi dây cố định qua đầu.
 
-<img src="/uploads/2019/10/4120007_bui_nano_Tinhte_10.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2019/10/4120007_bui_nano_Tinhte_10.webp" alt="Người đeo khẩu trang đi trên đường phố nhiều bụi" loading="lazy" decoding="async" />
 
 Mình tìm thử trên mạng thì thấy có một số nhãn hiệu mặt nạ như Cambridgemask, Totobobo và Respro là có tuyên bố lọc được bụi nano. Có nhãn hiệu còn tuyên bố là lọc được tận 80% PM2.5 và thậm chí lọc được cả PM0.3 với độ hiệu quả rất cao. Các mẫu mặt nạ sau khi được thử nghiệm, cấp phép lưu hành bởi Viện an toàn sức khỏe lao động Mỹ sẽ được đóng dấu N95 hoặc N99 được cho là sẽ lọc được phần lớn các loại bụi mịn. Các con số 95 hoặc 99 để chỉ khả năng lọc được các hạt PM0.3 với độ hiệu quả tương ứng 95 và 99%. Tuy nhiên phần lớn đều bán ở nước ngoài, giá khá mắc, đeo không thoải mái, khó dùng và mình cũng chưa tiếp cận được nguồn thông tin đáng tin cậy về tính hiệu quả thật sự của nó.
 

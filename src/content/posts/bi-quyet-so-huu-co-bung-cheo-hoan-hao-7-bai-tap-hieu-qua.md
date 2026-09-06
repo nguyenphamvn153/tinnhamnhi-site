@@ -29,7 +29,7 @@ Dưới đây là 7 bài tập được tuyển chọn kỹ lưỡng, giúp bạ
 
 ### **Side Plank (Plank Nghiêng): Nền Tảng Vững Chắc**
 
-<img src="/uploads/2025/03/1-2.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2025/03/1-2.webp" alt="Người đàn ông tập plank nghiêng trên sàn" loading="lazy" decoding="async" />
 
 Side Plank không chỉ là bài tập "kinh điển" cho cơ chéo bụng mà còn là "bài kiểm tra" sức bền và khả năng ổn định của toàn bộ cơ thể.
 
@@ -65,7 +65,7 @@ Bài tập này kết hợp sức mạnh của Plank với động tác xoay ng�
 
 ### **Suitcase Carry (Xách Tạ Một Bên): Sức Mạnh Chống Xoay**
 
-<img src="/uploads/2025/03/4.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2025/03/4.webp" alt="Người đàn ông đứng cạnh giàn tạ trong phòng gym" loading="lazy" decoding="async" />
 
 Bài tập này mô phỏng động tác xách vali, giúp tăng cường sức mạnh cơ lõi, đặc biệt là cơ chéo bụng, để chống lại sự mất cân bằng khi mang vác vật nặng một bên.
 
@@ -78,7 +78,7 @@ Bài tập này mô phỏng động tác xách vali, giúp tăng cường sức 
 
 ### **Pallof Press: "Khắc Tinh" Của Chuyển Động Xoay Không Mong Muốn**
 
-<img src="/uploads/2025/03/5.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2025/03/5.webp" alt="Người đàn ông tập với máy kéo cáp trong phòng gym" loading="lazy" decoding="async" />
 
 Pallof Press là bài tập "chống xoay" (anti-rotation) tuyệt vời, giúp bạn kiểm soát và ổn định cơ thể trước các lực tác động từ bên ngoài.
 

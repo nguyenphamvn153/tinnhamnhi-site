@@ -14,7 +14,7 @@ Tháng 11/2024 mang đến nhiều biến đổi và cơ hội để chúng ta k
 
 ## \1. Trăng non Bọ Cạp – Cơ hội khởi động mùa Đông 2024
 
-<img src="/uploads/2024/11/Bocap.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2024/11/Bocap.webp" alt="Đồ hoạ biểu tượng chòm sao Bọ Cạp" loading="lazy" decoding="async" />
 
 Mở đầu tháng 11 là sự kiện trăng non tại cung Bọ Cạp vào ngày 01/11. Trong ngày đầu tiên này, mặt trời và mặt trăng tạo góc trùng 9 độ tại cung hoàng đạo Bọ Cạp, tạo ra góc tam hợp với sao Thổ đang nghịch hành tại Song Ngư, sao Hải Vương ở Song Ngư và sao Hỏa ở Cự Giải.
 
@@ -26,19 +26,19 @@ Cuối năm, các cảm xúc như lo lắng, hưng phấn, hay tiếc nuối đ�
 
 ## \2. Sao Hỏa đến cung Sư Tử – Năng lượng sáng tạo bùng nổ
 
-<img src="/uploads/2024/11/Su-tu.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2024/11/Su-tu.webp" alt="Đồ hoạ biểu tượng chòm sao Sư Tử" loading="lazy" decoding="async" />
 
 Vào ngày 04/11, sao Hỏa bước sang 0 độ tại cung hoàng đạo Sư Tử, mang đến cho bạn năng lượng bùng nổ, sự tự tin và khả năng sáng tạo không giới hạn. Tuy nhiên, cung Sư Tử thuộc nhóm Lửa, kết hợp với năng lượng “giận dữ” của sao Hỏa, bạn cần nhắc nhở bản thân luôn giữ bình tĩnh. Sự căng thẳng và đối đầu không cần thiết. Thay vào đó, hãy tận dụng năng lượng dồi dào để phát huy tiềm năng bên trong.
 
 ## \3. Sao Kim di chuyển sang Ma Kết – Đổi mới quan điểm
 
-<img src="/uploads/2024/11/maket.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2024/11/maket.webp" alt="Đồ hoạ biểu tượng chòm sao hoàng đạo" loading="lazy" decoding="async" />
 
 Vào ngày 12/11, sao Kim bước sang cung hoàng đạo Ma Kết – một cung hoàng đạo mang tính nghiêm túc, khô khan nhưng giàu trách nhiệm. Thời gian này giúp chúng ta đánh giá lại những đích đến của bản thân và đề cao sự ổn định lâu dài. Bạn cũng sẽ dễ bắt đầu ưu tiên những mục tiêu liên quan đến tài chính, sự nghiệp và các mối quan hệ xung quanh.
 
 ## \4. Trăng tròn Kim Ngư – Nỗi lực và sự ôn hòa
 
-<img src="/uploads/2024/11/kim-nguu.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2024/11/kim-nguu.webp" alt="Đồ hoạ biểu tượng chòm sao Kim Ngưu" loading="lazy" decoding="async" />
 
 Vào ngày 16/11, trăng tròn tại Kim Ngư sẽ mang đến năng lượng nhiệt huyết và tinh thần sôi nổi. Mặt trời tại 24 độ Bọ Cạp tạo góc chiếu đối đỉnh với mặt trăng tại 24 độ Kim Ngư, giúp chúng ta suy ngẫm sâu hơn về sự cân bằng giữa tham vọng và sự "biết đủ".
 
@@ -60,7 +60,7 @@ Những vấn đề về luật lệ, kỷ cương, trách nhiệm và bài họ
 
 ## \7. Mặt trời tại Nhân Mã – Năng lượng phấn khích và sự lạc quan
 
-<img src="/uploads/2024/11/nhanma.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2024/11/nhanma.webp" alt="Đồ hoạ biểu tượng chòm sao Nhân Mã" loading="lazy" decoding="async" />
 
 Vào ngày 22/11, mặt trời di chuyển từ Bọ Cạp sang cung Nhân Mã, một cung hoàng đạo thuộc nhóm Lửa và mang đến năng lượng vui tươi, hứng phấn. Đây là thời điểm để bạn cảm nhận sự tích cực, niềm vui trong cuộc sống và đầy lòng lạc quan.
 

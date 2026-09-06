@@ -21,7 +21,7 @@ Sau khi đi vệ sinh xong bạn nên hình thành thói quen đóng nắp bồn
 
 Vì việc xả nước có thể tạo ra các xoáy nước làm chất bẩn và vi khuẩn trong bồn cầu bị đẩy lên cao, bay lơ lửng trong không khí và "hạ cánh" ở bất kỳ đâu, nếu chúng rơi vào các vật dụng như bàn chải, bàn chải lưỡi, khăn mặt, khăn tắm, cốc đánh răng... hoặc bị chúng ta hít trực tiếp vào cơ thể thì chắc chắn sẽ ảnh hưởng đến sức khỏe đường hô hấp, sức khỏe của miệng và da, và cơ thể nói chung.
 
-<img src="/uploads/2020/09/2.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/09/2.webp" alt="Bồn cầu trong nhà vệ sinh với cuộn giấy đặt trên nắp" loading="lazy" decoding="async" />
 
 ### \2. Nghịch điện thoại khi đi vệ sinh
 
@@ -39,7 +39,7 @@ Giấy vệ sinh khi sử dụng hết sẽ trở nên bẩn, nếu vứt vào g
 
 Tất nhiên, nếu bạn có thể dọn sạch giấy vụn mỗi ngày và xử lý giấy vệ sinh bỏ đi vào ngày hôm đó, nó sẽ tương đối hợp vệ sinh hơn và không tạo ra quá nhiều vi khuẩn.
 
-<img src="/uploads/2020/09/3.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/09/3.webp" alt="Người ôm một chồng cuộn giấy vệ sinh" loading="lazy" decoding="async" />
 
 ### \4. Đại tiện quá mạnh
 
@@ -49,7 +49,7 @@ Do đó, bạn không nên sử dụng quá nhiều lực lượng trong đại 
 
 Đồng thời, bạn có thể xoa bụng nhẹ nhàng trước khi đi đại tiện, có thể thúc đẩy quá trình đại tiện và giảm áp lực khi đại tiện.
 
-<img src="/uploads/2020/09/4.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/09/4.webp" alt="Đôi chân của người đang ngồi trên bồn cầu" loading="lazy" decoding="async" />
 
 ### \5. Lau quá nhiều sau khi đại tiện
 
@@ -57,7 +57,7 @@ Bạn không nên lau quá mạnh, quá nhiều bởi điều này có thể d�
 
 Vị trí đại tiện nằm phía sau, nếu lau từ sau ra trước rất dễ đưa vi khuẩn ở nơi đại tiện ra trước và gây nhiễm trùng. Vì vậy, phương pháp chính xác là nên lau từ trước ra sau.
 
-<img src="/uploads/2020/09/5.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/09/5.webp" alt="Đôi khuyên tai hình cuộn giấy vệ sinh trên lòng bàn tay" loading="lazy" decoding="async" />
 
 *Nguồn tham khảo: Sohu, Kknews, Healthline. Ảnh: Pinterest*
 

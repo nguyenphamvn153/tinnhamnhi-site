@@ -31,7 +31,7 @@ Phụ nữ hiện đại trân trọng sự kết nối, nhưng họ cũng ngư�
 
 **\5. Giao Tiếp Tự Tin, Rõ Ràng và Tôn Trọng:**
 
-<img src="/uploads/2025/03/2.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2025/03/2.webp" alt="Cặp đôi trò chuyện vui vẻ trên ghế sofa" loading="lazy" decoding="async" />
 
 Giao tiếp là chìa khóa của mọi mối quan hệ. Hãy học cách diễn đạt suy nghĩ và cảm xúc của mình một cách rõ ràng, mạch lạc và tự tin, nhưng không áp đặt hay độc đoán. Sự vững vàng trong lời nói và hành động sẽ mang lại cho cô ấy cảm giác an toàn và tin tưởng. Hãy lắng nghe ý kiến của cô ấy, tôn trọng quan điểm của cô ấy, và luôn giao tiếp một cách chân thành và cởi mở.
 
@@ -41,7 +41,7 @@ Mỗi người có một cách thể hiện và cảm nhận tình yêu khác nh
 
 **\7. Hài Hước – Gia Vị Không Thể Thiếu Của Cuộc Sống:**
 
-<img src="/uploads/2025/03/3.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2025/03/3.webp" alt="Hai người đàn ông cùng tập plank nghiêng" loading="lazy" decoding="async" />
 
 Một người đàn ông hài hước, biết cách tạo ra tiếng cười sẽ làm cho cuộc sống của cả hai trở nên nhẹ nhàng và thú vị hơn. Tiếng cười giúp xua tan căng thẳng, giảm bớt áp lực và tạo ra những kỷ niệm đáng nhớ. Hãy tìm những điểm chung hài hước, chia sẻ những câu chuyện vui, và đừng ngại thể hiện khiếu hài hước của mình.
 

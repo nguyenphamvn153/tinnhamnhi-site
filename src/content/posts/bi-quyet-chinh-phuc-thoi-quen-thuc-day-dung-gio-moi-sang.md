@@ -17,13 +17,13 @@ Khởi đầu ngày mới một cách đúng giờ mang lại nhiều lợi ích
 
 ## **\1. Ấn định giờ giấc ngủ nghỉ nhất quán**
 
-<img src="/uploads/2025/05/2.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2025/05/2.webp" alt="Người đàn ông ngủ say trên gối" loading="lazy" decoding="async" />
 
 Một trong những yếu tố then chốt để có [giấc ngủ](/posts/4-loi-ich-suc-khoe-cho-nam-gioi-tha-rong-khi-ngu) ngon và thức dậy đúng giờ là duy trì một lịch trình ngủ nghỉ nhất quán. Phần lớn người lớn cần ngủ đủ 7 tiếng mỗi đêm để cơ thể phục hồi. Việc lên giường và rời khỏi giường vào một khung giờ cố định hàng ngày, ngay cả những ngày cuối tuần hay dịp lễ, sẽ giúp đồng hồ sinh học của bạn được thiết lập. Dần dà, bạn sẽ thấy mình thức giấc một cách tự nhiên vào đúng thời điểm mong muốn, cảm thấy sảng khoái và sẵn sàng cho ngày mới.
 
 ## **\2. Kiến tạo những nghi thức thư giãn trước giờ ngủ**
 
-<img src="/uploads/2025/05/3.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2025/05/3.webp" alt="Người ngồi trên giường sau khi vừa thức dậy" loading="lazy" decoding="async" />
 
 Những gì bạn làm trước khi lên giường có ảnh hưởng đáng kể đến chất lượng giấc ngủ. Cần tránh các hoạt động gây cản trở giấc ngủ khi thực hiện quá gần giờ nghỉ ngơi, ví dụ như sử dụng thiết bị điện tử phát sáng (điện thoại, máy tính bảng) hay tiêu thụ đồ uống chứa caffeine. Thay vào đó, hãy hình thành những nghi thức thư giãn trước ngủ như: thực hành thiền hoặc các bài tập thở sâu, ngâm mình trong bồn nước ấm hoặc tắm dưới vòi sen với nước ấm, lắng nghe những podcast có nội dung thư thái, hoặc đọc một cuốn sách giấy hay sử dụng thiết bị đọc sách chuyên dụng không phát ra ánh sáng xanh.
 
@@ -33,7 +33,7 @@ Cảm giác muốn nhấn nút "hoãn" báo thức để ngủ nướng thêm v�
 
 ## **\4. Luyện tập thể chất đều đặn để ngủ ngon hơn**
 
-<img src="/uploads/2025/05/4.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2025/05/4.webp" alt="Hai người chạy bộ buổi sáng" loading="lazy" decoding="async" />
 
 Hoạt động thể chất thường xuyên đóng góp không nhỏ vào việc nâng cao chất lượng giấc ngủ của bạn. Theo một tổng kết nghiên cứu năm 2021, việc luyện tập đều đặn giúp cải thiện giấc ngủ cho người trưởng thành một cách rõ rệt, bao gồm việc ngủ ngon hơn, giảm thiểu tình trạng khó ngủ và hạn chế cảm giác lơ mơ, buồn ngủ vào ban ngày. Đáng chú ý, một nghiên cứu khác trong cùng năm cũng nhấn mạnh tầm quan trọng của cường độ luyện tập, cho thấy các bài tập ở mức độ vừa phải thường mang lại lợi ích cho giấc ngủ tốt hơn so với việc [tập luyện](/posts/bi-quyet-so-huu-co-bung-cheo-hoan-hao-7-bai-tap-hieu-qua) quá sức.
 
@@ -43,7 +43,7 @@ Hoạt động thể chất thường xuyên đóng góp không nhỏ vào việ
 
 ## **\6. Tạo sự hấp dẫn cho khoảnh khắc rời khỏi giường**
 
-<img src="/uploads/2025/05/5.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2025/05/5.webp" alt="Người ngáp bên cửa sổ, cạnh đồng hồ báo thức" loading="lazy" decoding="async" />
 
 Hãy tạo cho mình một động lực để rời khỏi chăn ấm nệm êm bằng cách gắn liền buổi sáng với những hoạt động bạn yêu thích. Nghiên cứu cho thấy, khi bộ não của bạn quen với việc buổi sáng đồng nghĩa với những trải nghiệm thú vị – chẳng hạn như nhâm nhi tách cà phê thơm lừng, lắng nghe giai điệu du dương, hay đi dạo dưới nắng sớm – việc hình thành thói quen dậy đúng giờ sẽ trở nên dễ dàng hơn rất nhiều. Thiết lập một chuỗi các hành động buổi sáng mang lại niềm vui, lặp đi lặp lại mỗi ngày, sẽ giúp bạn giảm bớt sự trì hoãn và cảm giác "ngại" thức dậy.
 

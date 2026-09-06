@@ -27,7 +27,7 @@ Từ đó, việc làm này giúp cho lưu lượng máu đến thận được 
 
 Nhiều người bỏ quên phần dái tai khi đi tắm hoặc có khi họ chỉ rửa sơ qua nó.
 
-<img src="/uploads/2022/02/ve-sinh-vanh-tai-nam-gioi.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2022/02/ve-sinh-vanh-tai-nam-gioi.webp" alt="Cận cảnh vành tai của một người đàn ông" loading="lazy" decoding="async" />
 
 Tuy nhiên, bạn nên biết rằng trong Trung ý, người ta thường nói "thận mở tai", tức là sức khỏe của thận có liên quan mật thiết đến vùng tai của chúng ta. Nếu bạn có thể xoa bóp vành tai và dái tai khi tắm một cách thường xuyên thì sẽ rất tốt cho việc bảo dưỡng thận. Điều này là do xoa bóp dái tai có thể làm giãn gân cốt, kích hoạt các huyệt vị, từ đó giúp thận khỏe mạnh hơn.
 
@@ -35,7 +35,7 @@ Tuy nhiên, bạn nên biết rằng trong Trung ý, người ta thường nói 
 
 Mắt cá chân là nơi mà nhiều người thường bỏ qua khi đi tắm, và mắt cá chân cũng rất dễ bị bẩn.
 
-<img src="/uploads/2022/02/ve-sinh-ban-chan-nam-gioi.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2022/02/ve-sinh-ban-chan-nam-gioi.webp" alt="Ba bàn chân trần đặt cạnh nhau trên nền trắng" loading="lazy" decoding="async" />
 
 Có một điểm trên mắt cá chân được gọi là huyệt Thái Dương. Việc thường xuyên rửa mắt cá chân trong bồn tắm/chậu ngâm chân rất tốt cho sức khỏe bởi nó có thể thúc đẩy quá trình lưu thông máu của thận. Ngoài ra, tắm rửa cho phần cổ chân có thể xoa bóp huyệt Thái Dương, có tác dụng giải cảm tốt cho tay chân, chữa mất ngủ, mộng mị.
 

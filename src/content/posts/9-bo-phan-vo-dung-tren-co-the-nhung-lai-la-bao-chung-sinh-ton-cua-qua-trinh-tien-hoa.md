@@ -18,7 +18,7 @@ Cơ thể người hiện đại ngày nay chắc chắn không giống như t�
 
 ### \1. Cơ gan tay - 10% dân số đang có nó
 
-<img src="/uploads/2020/08/photo-1-1597204274013161118249.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/photo-1-1597204274013161118249.webp" alt="Hình minh hoạ gân cơ gan tay dài nổi lên ở cổ tay" loading="lazy" decoding="async" />
 
 Hãy thử nắm ngửa tay ra và kéo căng phần cổ tay. Nếu bạn thấy có một chiếc gân nổi lên, thì bạn nằm trong số 10% dân số thế giới "may mắn" được sở hữu nó.
 
@@ -34,7 +34,7 @@ Tuy nhiên ngày nay, có hay không có bộ phận này cũng không khiến l
 
 ### \2. Ruột thừa
 
-<img src="/uploads/2020/08/photo-1-15972042787471572748198.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/photo-1-15972042787471572748198.webp" alt="Hình minh hoạ vị trí ruột thừa trên đại tràng" loading="lazy" decoding="async" />
 
 Ruột thừa - đúng như cái tên mà loài người đặt cho nó - là một bộ phận khá thừa thãi, lại dễ gây viêm nhiễm. Những người làm phẫu thuật cắt bỏ ruột thừa xong đều chẳng cảm thấy gì khác, vẫn tiếp tục cuộc sống như bình thường.
 
@@ -44,7 +44,7 @@ Nhìn chung, đây là một cơ chế khá hữu ích trong quá khứ - thời
 
 ### \3. Xương cụt
 
-<img src="/uploads/2020/08/photo-2-15972042787501908967164.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/photo-2-15972042787501908967164.webp" alt="Hình minh hoạ xương cụt ở khung chậu người" loading="lazy" decoding="async" />
 
 Xương cụt là khúc xương ở phía cuối xương sống, và nó là minh chứng cho thấy tổ tiên của chúng ta từng... có đuôi.
 
@@ -52,7 +52,7 @@ Xương cụt là khúc xương ở phía cuối xương sống, và nó là min
 
 ### \4. Cơ quan Jacobson - vomeronasal organ (VNO)
 
-<img src="/uploads/2020/08/photo-3-1597204278752683218963.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/photo-3-1597204278752683218963.webp" alt="Hình minh hoạ các xoang trong vùng mũi" loading="lazy" decoding="async" />
 
 Các loài động vật có vú đều có một cơ quan đặc biệt gọi là vomeronasal organ. Nó nằm trong khoang mũi, được cho là một cơ quan phụ trợ liên quan đến khứu giác. Tuy nhiên với con người, cơ quan này hoàn toàn chẳng có tác dụng gì, mà chỉ là phần còn sót lại của quá trình tiến hóa thôi. Bởi lẽ, các nhà khoa học sau rất nhiều công sức nghiên cứu cũng không tìm thấy bằng chứng nào về việc VNO có thể vận hành như các loài vật khác.
 
@@ -65,7 +65,7 @@ Trên thực tế thì với người xưa, những chiếc răng này khá quan
 
 ### \6. Đôi tai Darwin (Darwin’s tubercle)
 
-<img src="/uploads/2020/08/photo-5-15972042787561395406183.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/photo-5-15972042787561395406183.webp" alt="Hình minh hoạ nhóm cơ quanh vành tai" loading="lazy" decoding="async" />
 
 Hay còn gọi là "sụn tai Darwin". Dấu hiệu nhận biết một người sở hữu đôi tai này, đó là có một phần sụn nhỏ lồi lên phía vành tai. Lý do có cái tên như vậy là vì Darwin chính là người đầu tiên đề cập đến nó.
 
@@ -73,7 +73,7 @@ Và tác dụng của nó, không gì khác ngoài 2 chữ... vô dụng, chỉ 
 
 ### \7. Đôi tai biết động đậy
 
-<img src="/uploads/2020/08/photo-6-15972042787592045508183.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/photo-6-15972042787592045508183.webp" alt="Hình minh hoạ cơ điều khiển vành tai trên khuôn mặt" loading="lazy" decoding="async" />
 
 Một số người có khả năng cử động được tai, số khác thì không. Và để làm được điều đó, đôi tai của bạn cần một nhóm cơ đặc biệt.
 
@@ -81,7 +81,7 @@ Các cơ trong tai vốn tồn tại từ thời xa xưa, nhằm giúp tổ tiê
 
 ### \8. Mí mắt thứ 3
 
-<img src="/uploads/2020/08/photo-7-1597204278762119953532.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/photo-7-1597204278762119953532.webp" alt="Hình minh hoạ nếp bán nguyệt ở khoé mắt" loading="lazy" decoding="async" />
 
 Nhiều người khi nhìn vào gương sẽ thấy một vùng màu đỏ nằm ở phía hốc mắt gần mũi. Nhiều người còn nhầm nó với tuyến lệ - lacrimal caruncle, bởi chúng nằm cạnh nhau. Nhưng thực ra, đó là mí mắt thứ 3, và khoa học cũng đặt cho nó một cái tên rất đàng hoàng: plica semilunaris.
 
@@ -91,7 +91,7 @@ Qua thời gian, mí mắt thứ 3 ở người đã bị vô hiệu hóa, chỉ
 
 ### \9. Cơ da cổ - Platysma muscle
 
-<img src="/uploads/2020/08/photo-8-1597204278764695563860.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/photo-8-1597204278764695563860.webp" alt="Hình minh hoạ nhóm cơ vùng cổ họng" loading="lazy" decoding="async" />
 
 Nhiều người có phần cơ này lắm. Nó trải dài từ phần cổ trước tới tận ngực. Nhưng nếu hỏi nó có tác dụng gì không thì... không nhiều đâu!
 

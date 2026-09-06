@@ -16,7 +16,7 @@ Dựa trên tầm nhìn của người Hy Lạp thời ấy, chỉ gồm các 
 
 **1.Tượng thần Zeus ở Olympia (Hy Lạp)**
 
-<img src="/uploads/2020/08/1.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/1.webp" alt="Tranh khắc cổ mô tả tượng thần Zeus ở Olympia" loading="lazy" decoding="async" />
 
 Bức tượng khổng lồ của vua của các vị thần Hy Lạp được xây dựng để tôn vinh những kỳ thi Olympic đầu tiên, khởi nguồn từ **thành phố cổ Olympia**. Bức tượng được hoàn thành vào khoảng năm 432 TCN, khắc họa vị thần ngồi trên ngai vàng bằng gỗ ngọc nạm bên trong một đền thờ nhìn ra thành phố.
 
@@ -26,7 +26,7 @@ Nhiều nhà sử học tin rằng, Tượng thần Zeus đã được chuyển 
 
 ### \2. Tượng thần Mặt trời Rhodes (Hy Lạp)
 
-<img src="/uploads/2020/08/Screen-Shot-2020-08-31-at-11.07.52.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/Screen-Shot-2020-08-31-at-11.07.52.webp" alt="Tranh minh hoạ tượng thần Mặt Trời ở đảo Rhodes" loading="lazy" decoding="async" />
 
 Tượng thần Mặt trời ở Rhodes có thời gian tồn tại ngắn nhất trong bảy kỳ quan của thế giới cổ đại. Được hoàn thành vào năm 282 TCN sau 12 năm xây dựng, bức tượng khổng lồ này đã bị sụp đổ bởi một trận động đất diễn ra 56 năm sau đó.
 
@@ -34,7 +34,7 @@ Tượng thần Mặt trời cao 33m và là bức tượng cao nhất được 
 
 ### \3. Đại kim tự tháp Giza (Ai Cập)
 
-<img src="/uploads/2020/08/3-kim-tu-thap-giza.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/3-kim-tu-thap-giza.webp" alt="Quần thể kim tự tháp Giza ở Ai Cập" loading="lazy" decoding="async" />
 
 Đại kim tự tháp Giza có độ nghiêng của các mặt bên Kim tự tháp vào khoảng 51,5 độ. Chiều cao của mặt nghiêng là 195 m. Bốn mặt của Kim tự tháp nhìn về 4 hướng: chính bắc, chính nam, chính đông và chính tây.
 
@@ -44,7 +44,7 @@ Cấu trúc bằng đá khổng lồ này cao 146m với diện tích bề mặt
 
 ### \4. Lăng mộ Mausoleum (Thổ Nhĩ Kỳ)
 
-<img src="/uploads/2020/08/Screen-Shot-2020-08-31-at-11.08.32.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/Screen-Shot-2020-08-31-at-11.08.32.webp" alt="Tranh minh hoạ lăng mộ Mausolus ở Halicarnassus" loading="lazy" decoding="async" />
 
 Lăng mộ được **nữ hoàng Artemisia II** xây dựng cho chồng là **vua Mausolus** của Caria (khu vực ở phía Tây Nam Thổ Nhĩ Kỳ ngày nay) vào khoảng năm 370 – 350 TCN.
 
@@ -54,7 +54,7 @@ Phòng chôn cất ở trung tâm được trang trí bằng vàng, trong khi b�
 
 ### \5. Ngọn hải đăng Alexandria (Ai Cập)
 
-<img src="/uploads/2020/08/5-hai-dang-alexandria.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/5-hai-dang-alexandria.webp" alt="Tranh minh hoạ ngọn hải đăng Alexandria" loading="lazy" decoding="async" />
 
 Ngọn hải đăng là kỳ quan cổ đại duy nhất được sử dụng có ích như một đèn hiệu cho các tàu trong vùng biển nguy hiểm ra khỏi thành phố cảng Alexandria của Ai Cập. Được xây dựng trên một hòn đảo nhỏ của Pharos từ năm 285 và 247 TCN với chiều cao 117m, ngọn hải đăng này là một trong những công trình cao nhất thế giới trong nhiều thế kỷ. Hải đăng đặt ngay lối vào cảng Alexandria, gồm 3 tầng, chiều cao khoảng 135 m. Bậc dưới cùng hình vuông, gồm nhiều phòng cho bộ phận canh gác hải đăng thường trực, gia súc và lương thực.
 
@@ -66,7 +66,7 @@ Cấu trúc khổng lồ này đã đứng sừng sững bên bờ biển Địa
 
 ### \6. Vườn treo Babylon (Iraq)
 
-<img src="/uploads/2020/08/6-babylon04.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/6-babylon04.webp" alt="Tranh minh hoạ vườn treo Babylon" loading="lazy" decoding="async" />
 
 Vườn treo Babylon là một công trình do vua **Nebuchadrezzar II** xây dựng năm 603 TCN nhằm làm thỏa nỗi nhớ quê hương xứ Medes của người vợ. Trong vườn treo có một hệ thống đài phun nước gồm hai bánh xe lớn liên kết với nhau bằng dây xích có gắn thùng gỗ.
 
@@ -74,7 +74,7 @@ Khi bánh xe quay, dây xích và thùng nước cũng chuyển động đưa n�
 
 ### \7. Đền Artemis (Thổ Nhĩ Kỳ)
 
-<img src="/uploads/2020/08/7-den-artemis.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2020/08/7-den-artemis.webp" alt="Tranh minh hoạ đền thờ nữ thần Artemis ở Ephesus" loading="lazy" decoding="async" />
 
 Ngôi đền bằng đá cẩm thạch tuyệt vời dành riêng cho các nữ thần Hy Lạp Artemis được hoàn thành khoảng 550 TCN ở Ephesus, gần thị trấn Selçuk ngày nay ở Thổ Nhĩ Kỳ.
 

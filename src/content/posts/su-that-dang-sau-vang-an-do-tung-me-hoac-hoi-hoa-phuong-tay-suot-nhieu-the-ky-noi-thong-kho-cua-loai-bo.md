@@ -57,8 +57,8 @@ Thế rồi đột ngột, giữa những chất màu và thuốc nhuộm tổng
 Lý do thì cũng đơn giản thôi, bởi vì màu vàng này đến từ Ấn Độ. Có người cho rằng, chúng là kết tinh nước tiểu của rắn. Có người lại bảo, chúng được làm từ mật lạc đà.
 
 <div class="content-gallery">
-  <img src="/uploads/2019/06/6.webp" alt="" loading="lazy" decoding="async" />
-  <img src="/uploads/2019/06/7.webp" alt="" loading="lazy" decoding="async" />
+  <img src="/uploads/2019/06/6.webp" alt="Mẫu sắc tố vàng Ấn Độ trưng bày trong tủ kính bảo tàng" loading="lazy" decoding="async" />
+  <img src="/uploads/2019/06/7.webp" alt="Những cục sắc tố vàng Ấn Độ đặt trên nền trắng" loading="lazy" decoding="async" />
 </div>
 
 Ai nấy điên cuồng tìm mua "vàng Ấn Độ". Không như màu vàng của đất sét vừa tối vừa khó chỉnh gam, "vàng Ấn Độ" đáp ứng mọi đòi hỏi của người họa sĩ. Chỉ cần linh hoạt một chút, họ có thể biến nó từ màu vàng chanh lung linh đến sắc cam nồng ấm.
@@ -84,7 +84,7 @@ Sau khi "thu hoạch" nước tiểu bò chuyên ăn lá xoài, người ta đem
 
 Mãi đến tận năm 1883, phương Tây mới biết "vàng Ấn Độ" chỉ là nước tiểu. Công đầu thuộc về TN Mukharji, một nhân viên thuộc Vườn thực vật Hoàng gia Kew. Vì nghe quá nhiều tin đồn không xác thực về nguồn gốc "vàng Ấn Độ", giám đốc của Vườn thực vật Hoàng gia Kew bèn cử Mukharji đến tận nơi xác minh.
 
-<img src="/uploads/2019/06/2-1.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2019/06/2-1.webp" alt="Đàn bò gặm cỏ dưới tán cây trong vườn" loading="lazy" decoding="async" />
 
 Sau khi tận mắt chứng kiến quy trình tạo ra "vàng Ấn Độ", Mukharji lập tức viết báo cáo chi tiết, gửi đến Hội Nghệ thuật ở London (Anh). Ông nhấn mạnh những con bò bị ép buộc phải ăn duy nhất một loại lá là lá xoài cực kỳ gày mòn, đau đớn, khổ sở.
 

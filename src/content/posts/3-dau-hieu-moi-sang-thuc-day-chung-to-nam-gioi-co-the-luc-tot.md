@@ -33,7 +33,7 @@ Nếu bạn thức dậy vào buổi sáng, khuôn mặt không được bóng v
 
 Nói chung, khi thức dậy vào buổi sáng, mọi người thường sẽ tràn đầy năng lượng. Nhưng nếu bạn cảm thấy rất mệt mỏi, không có tí năng lượng nào cả và muốn quay trở lại [giấc ngủ](/posts/4-loi-ich-suc-khoe-cho-nam-gioi-tha-rong-khi-ngu) thì đó có thể là cơ quan trong cơ thể đang nhắc nhở bạn rằng bạn có vấn đề với sức khỏe của mình.
 
-<img src="/uploads/2021/12/2.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2021/12/2.webp" alt="Người đàn ông trẻ ăn sáng ngon miệng" loading="lazy" decoding="async" />
 
 Khi cơ thể nam giới có vấn đề sẽ gây ra rối loạn nội tiết của nam giới, từ đó tạo nên các vấn đề về trung tâm đại não, khiến nam giới sau khi ngủ dậy sẽ rất khó chịu, mệt mỏi. Do đó, nếu bạn cảm thấy tràn đầy năng lượng sau khi thức dậy vào buổi sáng, điều đó có nghĩa là thận và cơ thể của bạn vẫn khỏe mạnh.
 

@@ -26,7 +26,7 @@ Nếu bạn có da thường, sau vài phút rửa mặt da sẽ khô, nhưng tr
 
 **PHƯƠNG PHÁP 2: SỬ DỤNG GIẤY THẤM DẦU **
 
-<img src="/uploads/2023/05/nam-gioi-rua-mat-bang-nuoc-sach.webp" alt="" loading="lazy" decoding="async" />
+<img src="/uploads/2023/05/nam-gioi-rua-mat-bang-nuoc-sach.webp" alt="Người đàn ông rửa mặt bằng nước sạch bên bồn rửa" loading="lazy" decoding="async" />
 
 Rửa mặt sạch bằng sữa rửa mặt dịu nhẹ, lau khô bằng khăn bông và nghỉ 30 phút, chấm giấy thấm lên các vùng trên khuôn mặt, sau đó đặt giấy lên ánh sáng để nhìn các vết dầu.
 
