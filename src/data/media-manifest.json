@@ -2424,5 +2424,93 @@
 				"src": "/uploads/2025/05/samurai6.webp"
 			}
 		]
+	},
+	"/uploads/2026/09/toc-bac-som-can-canh-soi-toc.webp": {
+		"width": 1376,
+		"height": 768,
+		"variants": [
+			{
+				"w": 400,
+				"src": "/uploads/2026/09/toc-bac-som-can-canh-soi-toc-400w.webp"
+			},
+			{
+				"w": 800,
+				"src": "/uploads/2026/09/toc-bac-som-can-canh-soi-toc-800w.webp"
+			},
+			{
+				"w": 1200,
+				"src": "/uploads/2026/09/toc-bac-som-can-canh-soi-toc-1200w.webp"
+			},
+			{
+				"w": 1376,
+				"src": "/uploads/2026/09/toc-bac-som-can-canh-soi-toc.webp"
+			}
+		]
+	},
+	"/uploads/2026/09/toc-bac-som-kham-bac-si.webp": {
+		"width": 1376,
+		"height": 768,
+		"variants": [
+			{
+				"w": 400,
+				"src": "/uploads/2026/09/toc-bac-som-kham-bac-si-400w.webp"
+			},
+			{
+				"w": 800,
+				"src": "/uploads/2026/09/toc-bac-som-kham-bac-si-800w.webp"
+			},
+			{
+				"w": 1200,
+				"src": "/uploads/2026/09/toc-bac-som-kham-bac-si-1200w.webp"
+			},
+			{
+				"w": 1376,
+				"src": "/uploads/2026/09/toc-bac-som-kham-bac-si.webp"
+			}
+		]
+	},
+	"/uploads/2026/09/toc-bac-som-soi-guong.webp": {
+		"width": 1400,
+		"height": 781,
+		"variants": [
+			{
+				"w": 400,
+				"src": "/uploads/2026/09/toc-bac-som-soi-guong-400w.webp"
+			},
+			{
+				"w": 800,
+				"src": "/uploads/2026/09/toc-bac-som-soi-guong-800w.webp"
+			},
+			{
+				"w": 1200,
+				"src": "/uploads/2026/09/toc-bac-som-soi-guong-1200w.webp"
+			},
+			{
+				"w": 1400,
+				"src": "/uploads/2026/09/toc-bac-som-soi-guong.webp"
+			}
+		]
+	},
+	"/uploads/2026/09/toc-bac-som-stress-cong-viec.webp": {
+		"width": 1400,
+		"height": 781,
+		"variants": [
+			{
+				"w": 400,
+				"src": "/uploads/2026/09/toc-bac-som-stress-cong-viec-400w.webp"
+			},
+			{
+				"w": 800,
+				"src": "/uploads/2026/09/toc-bac-som-stress-cong-viec-800w.webp"
+			},
+			{
+				"w": 1200,
+				"src": "/uploads/2026/09/toc-bac-som-stress-cong-viec-1200w.webp"
+			},
+			{
+				"w": 1400,
+				"src": "/uploads/2026/09/toc-bac-som-stress-cong-viec.webp"
+			}
+		]
 	}
 }
