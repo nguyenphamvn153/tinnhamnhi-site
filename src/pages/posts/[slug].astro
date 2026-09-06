@@ -11,10 +11,14 @@ import { formatDate, getPublishedPosts, readingTime, tagSlug, type Post } from "
 
 export const getStaticPaths: GetStaticPaths = async () => {
 	const posts = await getPublishedPosts();
-	return posts.map((post) => ({ params: { slug: post.id }, props: { post } }));
+	// posts xếp mới -> cũ, nên "bài sau" là bài cũ hơn và "bài trước" là bài mới hơn
+	return posts.map((post, i) => ({
+		params: { slug: post.id },
+		props: { post, newer: posts[i - 1] ?? null, older: posts[i + 1] ?? null },
+	}));
 };
 
-const { post } = Astro.props as { post: Post };
+const { post, newer, older } = Astro.props as { post: Post; newer: Post | null; older: Post | null };
 const { title, metaTitle, excerpt, featuredImage, featuredImageAlt, featuredImageCredit, category, tags, publishedAt, updatedAt } = post.data;
 
 const { Content, headings } = await render(post);
@@ -100,10 +104,11 @@ const jsonLd = [
 			)
 		}
 
-		<div class="wrap article-body">
+		<div class="wrap article-layout">
+		<div class="article-body">
 			{
 				toc.length > 2 && (
-					<details class="toc">
+					<details class="toc toc--inline">
 						<summary class="toc__summary">Mục lục</summary>
 						<ol class="toc__list">
 							{toc.map((h) => (
@@ -136,6 +141,7 @@ const jsonLd = [
 
 			<div class="share">
 				<span class="share__label">Chia sẻ</span>
+				<button type="button" class="chip chip--button" data-native-share hidden>Chia sẻ…</button>
 				<a
 					class="chip"
 					href={`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`}
@@ -146,14 +152,53 @@ const jsonLd = [
 				</a>
 				<a
 					class="chip"
-					href={`https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}`}
+					href={`https://sp.zalo.me/plugins/share?url=${shareUrl}`}
 					target="_blank"
 					rel="noopener nofollow"
 				>
-					X
+					Zalo
 				</a>
 				<button type="button" class="chip chip--button" data-copy-link data-url={url}>Chép liên kết</button>
 			</div>
+
+			{
+				(newer || older) && (
+					<nav class="pager" aria-label="Bài khác">
+						{older ? (
+							<a href={`/posts/${older.id}`} class="pager__item">
+								<span class="pager__dir">← Bài cũ hơn</span>
+								<span class="serif pager__title">{older.data.title}</span>
+							</a>
+						) : (
+							<span />
+						)}
+						{newer ? (
+							<a href={`/posts/${newer.id}`} class="pager__item pager__item--next">
+								<span class="pager__dir">Bài mới hơn →</span>
+								<span class="serif pager__title">{newer.data.title}</span>
+							</a>
+						) : (
+							<span />
+						)}
+					</nav>
+				)
+			}
+		</div>
+
+		{
+			toc.length > 2 && (
+				<aside class="toc-rail" aria-label="Mục lục">
+					<p class="toc-rail__title">Trong bài này</p>
+					<ol class="toc-rail__list">
+						{toc.map((h) => (
+							<li class={h.depth === 3 ? "toc-rail__item toc-rail__item--sub" : "toc-rail__item"}>
+								<a href={`#${h.slug}`} data-toc-link={h.slug}>{h.text}</a>
+							</li>
+						))}
+					</ol>
+				</aside>
+			)
+		}
 		</div>
 	</article>
 
@@ -171,22 +216,228 @@ const jsonLd = [
 			</section>
 		)
 	}
+
+	<dialog id="zoom" class="zoom" aria-label="Ảnh phóng to">
+		<img alt="" />
+	</dialog>
+
+	<script is:inline>
+		(function () {
+			var url = location.href;
+			var title = document.title;
+	
+			// Nút chia sẻ của hệ điều hành: mở được Zalo, Messenger, SMS... tuỳ máy người đọc
+			var native = document.querySelector("[data-native-share]");
+			if (native && navigator.share) {
+				native.hidden = false;
+				native.addEventListener("click", function () {
+					navigator.share({ title: title, url: url }).catch(function () {});
+				});
+			}
+	
+			var copy = document.querySelector("[data-copy-link]");
+			if (copy) {
+				copy.addEventListener("click", function () {
+					navigator.clipboard?.writeText(copy.dataset.url).then(function () {
+						var old = copy.textContent;
+						copy.textContent = "Đã chép!";
+						setTimeout(function () { copy.textContent = old; }, 1600);
+					});
+				});
+			}
+	
+			// Bấm vào ảnh trong bài để xem cỡ lớn
+			var dlg = document.getElementById("zoom");
+			if (dlg) {
+				var big = dlg.querySelector("img");
+				document.querySelectorAll(".prose img").forEach(function (img) {
+					img.style.cursor = "zoom-in";
+					img.addEventListener("click", function () {
+						big.src = img.currentSrc || img.src;
+						big.alt = img.alt || "";
+						dlg.showModal();
+					});
+				});
+				dlg.addEventListener("click", function () { dlg.close(); });
+				dlg.addEventListener("close", function () { big.removeAttribute("src"); });
+			}
+	
+			// Làm nổi mục đang đọc: chọn tiêu đề cuối cùng đã đi qua mép trên màn hình
+			var links = document.querySelectorAll("[data-toc-link]");
+			var heads = document.querySelectorAll(".prose h2[id], .prose h3[id]");
+			if (links.length && heads.length) {
+				var byId = {};
+				links.forEach(function (a) { byId[a.dataset.tocLink] = a; });
+				var ticking = false;
+				var sync = function () {
+					ticking = false;
+					var current = heads[0];
+					heads.forEach(function (h) {
+						if (h.getBoundingClientRect().top < 140) current = h;
+					});
+					links.forEach(function (a) { a.classList.remove("is-active"); });
+					var active = byId[current.id];
+					if (active) active.classList.add("is-active");
+				};
+				var onScroll = function () {
+					if (!ticking) { ticking = true; requestAnimationFrame(sync); }
+				};
+				addEventListener("scroll", onScroll, { passive: true });
+				sync();
+			}
+	})();
+	</script>
 </Base>
 
-<script is:inline>
-	document.querySelector("[data-copy-link]")?.addEventListener("click", function (e) {
-		var btn = e.currentTarget;
-		navigator.clipboard?.writeText(btn.dataset.url).then(function () {
-			var old = btn.textContent;
-			btn.textContent = "Đã chép!";
-			setTimeout(function () {
-				btn.textContent = old;
-			}, 1600);
-		});
-	});
-</script>
-
 <style>
+
+	/* --- Bố cục có cột mục lục --- */
+	.article-layout {
+		display: grid;
+		grid-template-columns: minmax(0, var(--content-width));
+		justify-content: center;
+		margin-top: var(--space-5);
+	}
+
+	.article-body {
+		max-width: var(--content-width);
+		min-width: 0;
+	}
+
+	.toc-rail {
+		display: none;
+	}
+
+	@media (min-width: 75rem) {
+		.article-layout {
+			grid-template-columns: minmax(0, var(--content-width)) 15rem;
+			gap: var(--space-7);
+		}
+
+		.toc-rail {
+			display: block;
+			position: sticky;
+			top: calc(var(--header-height) + var(--space-5));
+			align-self: start;
+			max-height: calc(100vh - var(--header-height) - var(--space-7));
+			overflow-y: auto;
+		}
+
+		/* Trên desktop đã có mục lục bên cạnh nên ẩn khối gập trong bài */
+		.toc--inline {
+			display: none;
+		}
+	}
+
+	.toc-rail__title {
+		font-size: var(--step--1);
+		font-weight: 500;
+		letter-spacing: 0.1em;
+		color: var(--accent);
+		margin-bottom: var(--space-3);
+	}
+
+	.toc-rail__list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		border-left: 1px solid var(--border);
+	}
+
+	.toc-rail__item a {
+		display: block;
+		padding: 0.4rem 0 0.4rem var(--space-4);
+		margin-left: -1px;
+		border-left: 2px solid transparent;
+		font-size: var(--step--1);
+		line-height: 1.5;
+		color: var(--muted);
+		transition: color 0.2s ease, border-color 0.2s ease;
+	}
+
+	.toc-rail__item--sub a {
+		padding-left: var(--space-6);
+		font-size: 0.8rem;
+	}
+
+	.toc-rail__item a:hover {
+		color: var(--text);
+	}
+
+	.toc-rail__item a.is-active {
+		color: var(--accent);
+		border-left-color: var(--accent);
+	}
+
+	/* --- Bài trước / bài sau --- */
+	.pager {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: var(--space-3);
+		margin-top: var(--space-6);
+		padding-top: var(--space-5);
+		border-top: 1px solid var(--border);
+	}
+
+	.pager__item {
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-1);
+		padding: var(--space-4);
+		border-radius: var(--radius-lg);
+		background: var(--bg-subtle);
+		transition: background 0.3s ease;
+	}
+
+	.pager__item:hover {
+		background: var(--accent-soft);
+	}
+
+	.pager__dir {
+		font-size: var(--step--1);
+		color: var(--accent);
+		font-weight: 500;
+	}
+
+	.pager__title {
+		font-size: var(--step-0);
+		line-height: 1.4;
+		color: var(--text);
+	}
+
+	@media (min-width: 48rem) {
+		.pager {
+			grid-template-columns: 1fr 1fr;
+			gap: var(--space-4);
+		}
+		.pager__item--next {
+			text-align: right;
+		}
+	}
+
+	/* --- Ảnh phóng to --- */
+	.zoom {
+		max-width: 96vw;
+		max-height: 96vh;
+		padding: 0;
+		border: 0;
+		border-radius: var(--radius-lg);
+		background: transparent;
+		cursor: zoom-out;
+	}
+
+	.zoom::backdrop {
+		background: rgba(23, 18, 15, 0.88);
+	}
+
+	.zoom img {
+		display: block;
+		max-width: 96vw;
+		max-height: 96vh;
+		width: auto;
+		height: auto;
+		border-radius: var(--radius-lg);
+	}
 	.article-head {
 		max-width: var(--content-width);
 		margin-top: var(--space-6);
@@ -236,11 +487,6 @@ const jsonLd = [
 		font-size: var(--step--1);
 		color: var(--muted);
 		text-align: right;
-	}
-
-	.article-body {
-		max-width: var(--content-width);
-		margin-top: var(--space-5);
 	}
 
 	.toc {
