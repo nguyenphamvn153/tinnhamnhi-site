@@ -1,0 +1,44 @@
+---
+interface Props {
+	page: { currentPage: number; lastPage: number; url: { prev?: string; next?: string } };
+}
+const { page } = Astro.props;
+---
+
+{
+	page.lastPage > 1 && (
+		<nav class="pagination" aria-label="Phân trang">
+			{page.url.prev ? (
+				<a href={page.url.prev} rel="prev" class="chip">
+					← Trang trước
+				</a>
+			) : (
+				<span />
+			)}
+			<span class="pagination__status">
+				Trang {page.currentPage} / {page.lastPage}
+			</span>
+			{page.url.next ? (
+				<a href={page.url.next} rel="next" class="chip">
+					Trang sau →
+				</a>
+			) : (
+				<span />
+			)}
+		</nav>
+	)
+}
+
+<style>
+	.pagination {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: var(--space-4);
+		margin-top: var(--space-7);
+	}
+	.pagination__status {
+		font-size: var(--step--1);
+		color: var(--muted);
+	}
+</style>

@@ -1,0 +1,42 @@
+---
+/** Huy hiệu tròn xoay chậm, đặt đè lên góc ảnh hero. */
+interface Props {
+	class?: string;
+	size?: number;
+}
+const { class: className, size = 116 } = Astro.props;
+const r = size / 2;
+const pathR = r - 16;
+const id = `badge-${Math.random().toString(36).slice(2, 9)}`;
+---
+
+<div class:list={["badge", className]} style={`width: ${size}px; height: ${size}px`} aria-hidden="true">
+	<svg viewBox={`0 0 ${size} ${size}`} width={size} height={size}>
+		<circle cx={r} cy={r} r={r - 1} fill="var(--bg)"></circle>
+		<defs>
+			<path id={id} d={`M${r},${r} m-${pathR},0 a${pathR},${pathR} 0 1,1 ${pathR * 2},0 a${pathR},${pathR} 0 1,1 -${pathR * 2},0`}></path>
+		</defs>
+		<g class="badge__ring">
+			<text fill="var(--accent)" font-size={size * 0.086} letter-spacing={size * 0.028} font-family="var(--font-sans)">
+				<textPath href={`#${id}`}>ĐỌC · TIN · NHẢM · NHÍ · TỪ 2019 · ĐỌC · TIN · NHẢM · NHÍ · </textPath>
+			</text>
+		</g>
+		<circle cx={r} cy={r} r={r * 0.45} fill="var(--accent-soft)"></circle>
+		<path
+			d={`M${r - 7} ${r} h13 M${r + 1.5} ${r - 4.5} l4.5 4.5 -4.5 4.5`}
+			stroke="var(--accent)"
+			stroke-width="1.6"
+			fill="none"
+			stroke-linecap="round"
+			stroke-linejoin="round"></path>
+	</svg>
+</div>
+
+<style>
+	/* Chỉ vòng chữ xoay; mũi tên ở giữa đứng yên. */
+	.badge__ring {
+		animation: tnn-spin 26s linear infinite;
+		transform-origin: 50% 50%;
+		transform-box: view-box;
+	}
+</style>

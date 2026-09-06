@@ -1,70 +1,45 @@
 import type { APIRoute } from "astro";
-import { getEmDashCollection, getSiteSettings } from "emdash";
+import { site } from "../site.config";
+import { getPublishedPosts } from "../utils/posts";
 
-import { resolveBlogSiteIdentity } from "../utils/site-identity";
+const escapeXml = (str: string) =>
+	str
+		.replace(/&/g, "&amp;")
+		.replace(/</g, "&lt;")
+		.replace(/>/g, "&gt;")
+		.replace(/"/g, "&quot;")
+		.replace(/'/g, "&apos;");
 
-export const GET: APIRoute = async ({ site, url }) => {
-	const siteUrl = site?.toString() || url.origin;
-	const { siteTitle, siteTagline } = resolveBlogSiteIdentity(await getSiteSettings());
-
-	const { entries: posts } = await getEmDashCollection("posts", {
-		orderBy: { published_at: "desc" },
-		limit: 20,
-	});
+export const GET: APIRoute = async () => {
+	const posts = (await getPublishedPosts()).slice(0, 20);
 
 	const items = posts
 		.map((post) => {
-			if (!post.data.publishedAt) return null;
-			const pubDate = post.data.publishedAt.toUTCString();
-
-			const postUrl = `${siteUrl}/posts/${post.id}`;
-			const title = escapeXml(post.data.title || "Untitled");
-			const description = escapeXml(post.data.excerpt || "");
-
+			const url = `${site.url}/posts/${post.id}`;
+			const pubDate = post.data.publishedAt?.toUTCString();
 			return `    <item>
-      <title>${title}</title>
-      <link>${postUrl}</link>
-      <guid isPermaLink="true">${postUrl}</guid>
-      <pubDate>${pubDate}</pubDate>
-      <description>${description}</description>
+      <title>${escapeXml(post.data.title)}</title>
+      <link>${url}</link>
+      <guid isPermaLink="true">${url}</guid>${pubDate ? `\n      <pubDate>${pubDate}</pubDate>` : ""}
+      <description>${escapeXml(post.data.excerpt ?? "")}</description>
     </item>`;
 		})
-		.filter(Boolean)
 		.join("\n");
 
 	const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>${escapeXml(siteTitle)}</title>
-    <description>${escapeXml(siteTagline)}</description>
-    <link>${siteUrl}</link>
-    <atom:link href="${siteUrl}/rss.xml" rel="self" type="application/rss+xml"/>
-    <language>en-us</language>
+    <title>${escapeXml(site.title)}</title>
+    <description>${escapeXml(site.tagline)}</description>
+    <link>${site.url}/</link>
+    <atom:link href="${site.url}/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>vi</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
 ${items}
   </channel>
 </rss>`;
 
 	return new Response(rss, {
-		headers: {
-			"Content-Type": "application/rss+xml; charset=utf-8",
-			"Cache-Control": "public, max-age=3600",
-		},
+		headers: { "Content-Type": "application/rss+xml; charset=utf-8" },
 	});
 };
-
-const XML_ESCAPE_PATTERNS = [
-	[/&/g, "&amp;"],
-	[/</g, "&lt;"],
-	[/>/g, "&gt;"],
-	[/"/g, "&quot;"],
-	[/'/g, "&apos;"],
-] as const;
-
-function escapeXml(str: string): string {
-	let result = str;
-	for (const [pattern, replacement] of XML_ESCAPE_PATTERNS) {
-		result = result.replace(pattern, replacement);
-	}
-	return result;
-}

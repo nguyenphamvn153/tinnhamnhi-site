@@ -1,0 +1,17 @@
+# Chuyển hướng cho Cloudflare Workers Assets (tương đương RewriteRule trong .htaccess).
+#
+# Lưu ý:
+# - Chỉ nhận URL tương đối. Gộp www -> apex phải làm bằng Redirect Rule ở tầng zone.
+# - Các rule KHÔNG được chồng lấn prefix của nhau, vì Workers Assets không ưu tiên
+#   theo thứ tự dòng như Pages. Vì vậy /_emdash/* được tách nhỏ thay cho catch-all.
+
+# Ảnh cũ phục vụ qua API của EmDash, nay nằm thẳng trong thư mục gốc
+/_emdash/api/media/file/*  /:splat  301
+
+# Trang quản trị EmDash không còn
+/_emdash/admin      /  301
+/_emdash/admin/*    /  301
+
+# Trang tìm kiếm đã bỏ
+/search   /posts  301
+/search/  /posts  301

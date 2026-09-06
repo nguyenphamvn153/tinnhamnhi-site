@@ -1,0 +1,34 @@
+[
+ {
+  "name": "emdash:exclusive_hook:comment:moderate",
+  "value": "\"emdash-default-comment-moderator\""
+ },
+ {
+  "name": "site:title",
+  "value": "\"Tin Nhảm Nhí\""
+ },
+ {
+  "name": "site:tagline",
+  "value": "\"Toàn tin nhảm nhí\""
+ },
+ {
+  "name": "emdash:site_url",
+  "value": "\"https://tinnhamnhi.com\""
+ },
+ {
+  "name": "site:logo",
+  "value": "{\"mediaId\":\"01KPANF1NSTEXNAA3CGBCCGYBG\",\"alt\":\"\"}"
+ },
+ {
+  "name": "emdash:setup_complete",
+  "value": "true"
+ },
+ {
+  "name": "_redirect_loop_ids",
+  "value": "[]"
+ },
+ {
+  "name": "site:url",
+  "value": "\"https://tinnhamnhi.com\""
+ }
+]

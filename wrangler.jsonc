@@ -1,27 +1,17 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "tinnhamnhi-site",
-	"main": "./src/worker.ts",
-	"compatibility_date": "2026-02-24",
-	"compatibility_flags": ["nodejs_compat"],
-	"d1_databases": [
-		{
-			"binding": "DB",
-			"database_name": "tinnhamnhi-site",
-			// Run `wrangler d1 create my-emdash-site` and paste the real ID here for deploy
-			"database_id": "fb9e5ec2-b586-401f-96ef-af748082d898",
-		},
-	],
-	"r2_buckets": [
-		{
-			"binding": "MEDIA",
-			"bucket_name": "tinnhamnhi-media","preview_bucket_name": "tinnhamnhi-media",
-		},
-	],
-	// Worker Loader for plugin sandboxing
-	"worker_loaders": [
-		{
-			"binding": "LOADER",
-		},
-	],
+	"compatibility_date": "2026-09-01",
+
+	// Không phục vụ site qua *.workers.dev để tránh trùng nội dung với tinnhamnhi.com
+	"workers_dev": false,
+
+	// Worker chỉ phục vụ file tĩnh: không có script, không có D1/R2.
+	// Dữ liệu D1 và R2 cũ KHÔNG bị xoá, chỉ là không còn được gắn vào Worker nữa.
+	"assets": {
+		"directory": "./dist",
+		"not_found_handling": "404-page",
+		// URL chuẩn không có dấu "/" cuối, khớp với URL site cũ đã được index
+		"html_handling": "drop-trailing-slash"
+	}
 }
